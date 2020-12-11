@@ -19,3 +19,7 @@
 [OOP](https://www.notion.so/OOP-f2128be28b6c4a02ac29f381f8be9d68)
 
 [Advanced Kotlin Concept](https://www.notion.so/Advanced-Kotlin-Concept-6be4e8daa5b449a6a81a434396f96277)
+
+# Business
+
+[Publish your first Kotlin App](https://tutorials.eu/generate-a-signed-apk-in-android-studio-and-upload-it-on-google-play-store/)
