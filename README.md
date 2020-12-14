@@ -32,3 +32,18 @@
 
 [Save Image into Local](https://www.notion.so/Save-Image-into-Local-550a73c861984d259a901474a0663bba)
 
+# App Reference
+
+### Save image into local, AsyncTask, CustomView, Canvas
+
+[Kids DrawingApp](https://github.com/paigeshin/AOS_Kotlin_DrawingApp)
+
+### Project Structure
+
+[Quiz App](https://github.com/paigeshin/AOS_Kotlin_Quiz_App)
+
+### Clean Logic 
+
+[Calculator](https://github.com/paigeshin/AOS_Kotlin_Calculator)
+
+[AGE in minutes](https://github.com/paigeshin/AGE_IN_MINUTES_AOS_Kotlin)
