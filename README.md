@@ -32,6 +32,10 @@
 
 [DatePicker](https://www.notion.so/DatePicker-ba599045f0844817a8f0a1cf561a0734)
 
+[Custom ProgressBar with Drawable XML](https://www.notion.so/Custom-ProgressBar-with-Drawable-XML-e0024b5459004d4cba6193b5c4d5ca1f)
+
+[Custom ActionBar](https://www.notion.so/Custom-ActionBar-4a8bb9a417874d63bf623ca15d70f339)
+
 # Local Image Storage
 
 [Save Image into Local](https://www.notion.so/Save-Image-into-Local-550a73c861984d259a901474a0663bba)
