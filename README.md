@@ -24,6 +24,11 @@
 
 [Publish your first Kotlin App](https://tutorials.eu/generate-a-signed-apk-in-android-studio-and-upload-it-on-google-play-store/)
 
+# Functionality
+
+[Share](https://www.notion.so/Share-Email-7fad5c46ff3d4a1daa97d002c0343c90)
+
 # Local Image Storage
 
 [Save Image into Local](https://www.notion.so/Save-Image-into-Local-550a73c861984d259a901474a0663bba)
+
