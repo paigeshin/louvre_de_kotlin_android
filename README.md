@@ -26,7 +26,13 @@
 
 # Functionality
 
+[Timer Example](https://www.notion.so/Timer-Example-de4ebe70faf14aeeafcbe7b98b363a07)
+
 [Share](https://www.notion.so/Share-Email-7fad5c46ff3d4a1daa97d002c0343c90)
+
+[TTS kotlin](https://www.notion.so/TTS-kotlin-924f03e720644f23818c9d7f57153615)
+
+[Media Player](https://www.notion.so/Media-Player-66a46fdaffce44e4b5a2883d4be8ff09)
 
 # UI Component
 
@@ -36,9 +42,15 @@
 
 [Custom ActionBar](https://www.notion.so/Custom-ActionBar-4a8bb9a417874d63bf623ca15d70f339)
 
-# Local Image Storage
+# Grammar
+
+[Kotlin object keyword](https://www.notion.so/Kotlin-object-keyword-bb538408bcc34abcabbfc83458f192e4)
+
+# Image
 
 [Save Image into Local](https://www.notion.so/Save-Image-into-Local-550a73c861984d259a901474a0663bba)
+
+[ImageView, keep intact ratio](https://www.notion.so/ImageView-keep-intact-ratio-ba03db34174449cca089381b2b4fc5c8)
 
 # App Reference
 
