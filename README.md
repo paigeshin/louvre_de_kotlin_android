@@ -42,6 +42,24 @@
 
 [Custom ActionBar](https://www.notion.so/Custom-ActionBar-4a8bb9a417874d63bf623ca15d70f339)
 
+[xml drawable vector, checkbox](https://www.notion.so/xml-drawable-vector-checkbox-8d64703da3374448a506bf6f53a7dd3b)
+
+[Drawable XML multiple examples](https://www.notion.so/Drawable-XML-multiple-examples-a22629ede0e24d59ab2eae46d5d71f50)
+
+[Set Up Custom Dialog](https://www.notion.so/Set-Up-Custom-Dialog-5df4840378ca47509308c15899bf3e83)
+
+[TextInputLayout](https://www.notion.so/TextInputLayout-41fe83fbe95d4a3690ec5bf43205b432)
+
+[Custom Radio Group Design](https://www.notion.so/Custom-Radio-Group-Design-2717bf18d9df46d59e0b85b2c8bb714c)
+
+# Data Persistence
+
+[Sqlite, write example ](https://www.notion.so/Sqlite-write-example-f0a698fb78d645e491f16379c1f42baf)
+
+# Business Logic 
+
+[Calculate BMI anywhere](https://www.notion.so/Calculate-BMI-anywhere-c5d0b20b43ec4c4f9ca788ee1ab7ca16)
+
 # Grammar
 
 [Kotlin object keyword](https://www.notion.so/Kotlin-object-keyword-bb538408bcc34abcabbfc83458f192e4)
