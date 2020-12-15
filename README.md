@@ -87,3 +87,7 @@
 ### Date Picker
 
 [AGE in minutes](https://github.com/paigeshin/AGE_IN_MINUTES_AOS_Kotlin)
+
+### Dimension, Custom ActionBar, Timer, Define model, Constant Files, ImageView - Keep intact ratio, TTS, MediaPlayer, RecyclerView, SQLite, Custom Dialog, a bunch of drawable xml files, BMI, TextInputLayout, Custom Radio Group & Button Design
+
+[7 Minutes Workout](https://github.com/paigeshin/7_MINUTES_WORKOUT_AOS_KOTLIN)
