@@ -20,6 +20,17 @@
 
 [Advanced Kotlin Concept](https://www.notion.so/Advanced-Kotlin-Concept-6be4e8daa5b449a6a81a434396f96277)
 
+# Template
+
+[Google Location Template with Dexter](https://www.notion.so/Google-Location-Template-with-Dexter-3ba2e6402076491db6dc87e6c5bed070)
+
+# Network 
+
+[Check Internet Connection](https://www.notion.so/Check-Internet-Connection-1a775db6c62d489289fa6810c52b043f)
+
+[How to use Retrofit2](https://www.notion.so/How-to-use-Retrofit2-2c61d28633c449c79e743c25c5b10d6b)
+
+
 # Business
 
 [Publish your first Kotlin App](https://tutorials.eu/generate-a-signed-apk-in-android-studio-and-upload-it-on-google-play-store/)
@@ -51,6 +62,10 @@
 # Library
 
 [Dexter, Third party Permission handling](https://www.notion.so/Dexter-Third-party-Permission-handling-f023b8f4ab744fdb93e55cc3482547dc)
+
+# Util
+
+[TimeStamp to date](https://www.notion.so/TimeStamp-to-date-c3efa47ccddc461188963fcf0dd8df72)
 
 # API 
 
@@ -96,8 +111,13 @@
 
 [Create AlertDialog with positive & negative button](https://www.notion.so/Create-AlertDialog-with-positive-negative-button-fd01ff12132b4b4a88f687e69591072b)
 
+[Custom Dialog Component](https://www.notion.so/Custom-Dialog-Component-4d154118376040b59293ae4f8da33b27)
+
+[Adding Menu](https://www.notion.so/Adding-Menu-46ac1c920b954015ae51bf49b356c2e7)
 
 # Data Persistence
+
+[SharedPreference](https://www.notion.so/SharedPreference-a876c765513046f186f9a05c3a7673ca)
 
 [Sqlite, write example ](https://www.notion.so/Sqlite-write-example-f0a698fb78d645e491f16379c1f42baf)
 
@@ -133,6 +153,8 @@
 
 [Integrate ADMOB](https://www.notion.so/Integrate-ADMOB-ce7767af8a3a49bc846f406a4a4e40bb)
 
+[Generate a Signed APK in Android Studio and upload it on Google Play Store](https://tutorials.eu/generate-a-signed-apk-in-android-studio-and-upload-it-on-google-play-store/)
+
 # App Reference
 
 ### Save image into local, AsyncTask, CustomView, Canvas
@@ -158,3 +180,7 @@
 ### Google Map, Google Places, Google Location, taking photo, get photo from album, save photo into Local, RecyclerView Animation, Custom Theme, Custom ToolBar, SQLite CRUD
 
 [Happy Places](https://github.com/paigeshin/AOS_Kotlin_Happy_Places)
+
+### SharedPreferences, Google Location, Retrofit2, Data Class
+
+[Open Weather App](https://github.com/paigeshin/AOS_Kotlin_AOS_Weather_App)
