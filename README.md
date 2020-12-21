@@ -370,3 +370,11 @@
 [Open Weather App](https://www.notion.so/Open-Weather-App-4d39a1bf6249427aaa3ba7d935a21599)
 
 [Trello Clone](https://www.notion.so/Trello-Clone-e43e4c3ff1cc43bdbc7cb944e7b5be60)
+
+[How To Learn More](https://www.notion.so/How-To-Learn-More-03713441e7bf4302a47e82fedf4bc8b5)
+
+[Options to Make Money](https://www.notion.so/Options-to-Make-Money-d04435f507c847b6afb7aa72be1d110b)
+
+[Publish Your App](https://www.notion.so/Publish-Your-App-bc8d686583c441e98980cc4ae935c7ab)
+
+[How to Build Games for Android](https://www.notion.so/How-to-Build-Games-for-Android-4b36210d19bb481eba00004e586a22e8)
