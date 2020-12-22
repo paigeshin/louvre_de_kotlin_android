@@ -24,6 +24,8 @@
 
 [Google Location Template with Dexter](https://www.notion.so/Google-Location-Template-with-Dexter-3ba2e6402076491db6dc87e6c5bed070)
 
+[Custom Theme, Base Project Setting for Custom Theme & Custom DrawerLayout & Custom App Bar](https://github.com/paigeshin/AOS_Kotlin_What_did_you_do_today_for_success/commit/00445a623a694bc4c68f86a4ec2fec6b2f79cd23)
+
 # Network 
 
 [Check Internet Connection](https://www.notion.so/Check-Internet-Connection-1a775db6c62d489289fa6810c52b043f)
