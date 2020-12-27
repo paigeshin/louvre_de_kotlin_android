@@ -300,6 +300,12 @@
 
 # Data Persistence
 
+[***Android Kotlin Room Data Modeling on Git***](https://github.com/paigeshin/AOS_Koltin_ROOM_datamodeling)
+
+[One to many relationship, room example with default POJO](https://www.notion.so/One-to-many-relationship-room-example-with-default-POJO-5d6f62de6824448ba92cb53ab09e8a01)
+
+[Modeling an SQL Database](https://www.notion.so/Modeling-an-SQL-Database-0a13ba67692641e3838e2ae67ea1d3ca)
+
 [Android Kotlin Room on Git](https://github.com/paigeshin/android_kotlin_room_example)
 
 [Android Kotlin Room Clean Version ](https://www.notion.so/Android-Kotlin-Room-Clean-Version-817a36fb72554cefa2560b30c88d17bd)
