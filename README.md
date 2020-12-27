@@ -20,7 +20,31 @@
 
 [Advanced Kotlin Concept](https://www.notion.so/Advanced-Kotlin-Concept-6be4e8daa5b449a6a81a434396f96277)
 
+# Drawable
+
+[EditText custom background](https://www.notion.so/EditText-custom-background-2b9609e337da4e4c83590e7209a031de)
+
+[Drawable.xml shadow background](https://www.notion.so/Drawable-xml-shadow-background-a3fef26d611a464a9c04ba240d5bfd45)
+
+# Stack
+
+[Activity Stack Management, Single Instance, Single Task ](https://www.notion.so/Activity-Stack-Management-Single-Instance-Single-Task-e4fb2c5ee39341a3af532b8d93f8865b)
+
+# App Bar
+
+[Center Title Toolbar & Customizable Toolbar](https://www.notion.so/Center-Title-Toolbar-Customizable-Toolbar-467785ffc55d4a6baabd331786393139)
+
+# View Binding
+
+[View Binding](https://www.notion.so/View-Binding-6ea9fb3578ba48c9893b7bf32b94fa4e)
+
+[ViewBinding in RecyclerView](https://www.notion.so/ViewBinding-in-RecyclerView-71e5e5323c6e434e89457d1fca86d802)
+
 # Template
+
+[Template, Navigation Drawer, Theme, Intent settings with activity, animation](https://www.notion.so/Template-Navigation-Drawer-Theme-Intent-settings-with-activity-animation-1bde3841d6214e12b87a6da0f693df5f)
+
+[Template, Base Project Setting for Navigation Drawer Apps](https://www.notion.so/Template-Base-Project-Setting-for-Navigation-Drawer-Apps-3072490f745b4388bf5e154d05701ec0)
 
 [Google Location Template with Dexter](https://www.notion.so/Google-Location-Template-with-Dexter-3ba2e6402076491db6dc87e6c5bed070)
 
@@ -43,6 +67,10 @@
 # Business
 
 [Publish your first Kotlin App](https://tutorials.eu/generate-a-signed-apk-in-android-studio-and-upload-it-on-google-play-store/)
+
+# Handler
+
+[Handler, not deprecated ](https://www.notion.so/Handler-not-deprecated-93989c8c897748d08b6d0af5d499313b)
 
 # Concept
 
@@ -152,6 +180,16 @@
 
 [Image Chooser](https://www.notion.so/Image-Chooser-496efc60a867411899027b9e9f8c0704)
 
+# Layout Programmatically
+
+[Layout Params, control view programmatically](https://www.notion.so/Layout-Params-control-view-programmatically-c2ba5ee13f164600bb1a07ca2e066d0b)
+
+# AlertDialog
+
+[Simple Yes & No AlertDialog](https://www.notion.so/Simple-Yes-No-AlertDialog-091120630ccf435695aee8860f7392b4)
+
+[Custom Dialog, Rounded Dialog, Width Control, dismiss keyboard, data binding, Soft Input ](https://www.notion.so/Custom-Dialog-Rounded-Dialog-Width-Control-dismiss-keyboard-data-binding-Soft-Input-35024108e1834e63b8467dd73cc15cdd)
+
 # RecyclerView
 
 [Adding The Drag and Drop Feature in RecyclerView](https://www.notion.so/Adding-The-Drag-and-Drop-Feature-in-RecyclerView-0fb6b675967a432282701b99cfc147dd)
@@ -175,6 +213,8 @@
 [RecyclerView, delete item ](https://www.notion.so/RecyclerView-delete-item-ea9719e506ab4dbf8a2a930b472ea5c1)
 
 # Design
+
+[Overlay with ImageView](https://www.notion.so/Overlay-with-ImageView-c8ff617dcff245a0896f92b3af3158b3)
 
 [Get Screen Size and convert it to Integer](https://www.notion.so/Get-Screen-Size-and-convert-it-to-Integer-574d81b91ae346c9910a8ba7cafe9143)
 
@@ -250,7 +290,17 @@
 
 [Adding Menu](https://www.notion.so/Adding-Menu-46ac1c920b954015ae51bf49b356c2e7)
 
+# Android 
+
+[Find your shakey on android studio](https://www.notion.so/Find-your-shakey-on-android-studio-ebcece243b564d91afcffe6b129cc7f0)
+
+[Android Room Tutorial](https://www.notion.so/Android-Room-Tutorial-1a4456d2272b45d687eb0e1435acc3ad)
+
 # Data Persistence
+
+[Android Kotlin Room Clean Version ](https://www.notion.so/Android-Kotlin-Room-Clean-Version-817a36fb72554cefa2560b30c88d17bd)
+
+[Android Realm Tutorial](https://www.notion.so/Android-Realm-Tutorial-bf7ca6d87b354e2e9405884c20bae02c)
 
 [Clear SharedPreferences](https://www.notion.so/Clear-SharedPreferences-14240405e1b24dd0a8fb8d204f78bf03)
 
