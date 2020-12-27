@@ -88,6 +88,8 @@
 
 # Functionality
 
+[***Backup & Restore with sqlite***](https://medium.com/dwarsoft/how-to-provide-backup-restore-feature-for-room-database-in-android-d87f111d9c64)
+
 [Set up ActionBar with Drawable Resource](https://www.notion.so/Set-up-ActionBar-with-Drawable-Resource-415a77bc819b465a8ff3a2ebdac07565)
 
 [Splash](https://www.notion.so/Splash-a8c44a67f3754e44b64eee9607b74bcb)
@@ -297,6 +299,8 @@
 [Android Room Tutorial](https://www.notion.so/Android-Room-Tutorial-1a4456d2272b45d687eb0e1435acc3ad)
 
 # Data Persistence
+
+[Android Kotlin Room on Git](https://github.com/paigeshin/android_kotlin_room_example)
 
 [Android Kotlin Room Clean Version ](https://www.notion.so/Android-Kotlin-Room-Clean-Version-817a36fb72554cefa2560b30c88d17bd)
 
