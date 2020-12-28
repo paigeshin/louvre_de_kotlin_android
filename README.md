@@ -440,3 +440,7 @@
 [Publish Your App](https://www.notion.so/Publish-Your-App-bc8d686583c441e98980cc4ae935c7ab)
 
 [How to Build Games for Android](https://www.notion.so/How-to-Build-Games-for-Android-4b36210d19bb481eba00004e586a22e8)
+
+# Android Architectural Components
+
+[Data Binding On Git](https://github.com/paigeshin/AOS_Kotlin_Data_Binding)
