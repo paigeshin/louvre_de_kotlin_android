@@ -449,4 +449,6 @@
 
 [LiveData On Git](https://github.com/paigeshin/AOS_kotlin_android_livedata)
 
-[ViewBinding with ViewModel & LiveData on git](https://github.com/paigeshin/AOS_Kotlin_ViewModel_LiveData_DataBinding_Example)
+[ViewBinding with ViewModel & LiveData on Git](https://github.com/paigeshin/AOS_Kotlin_ViewModel_LiveData_DataBinding_Example)
+
+[Navigation Component on Git](https://github.com/paigeshin/AOS_Kotlin_NavigationComponent)
