@@ -445,6 +445,10 @@
 
 [Kotlin function as argument in function example on Git](https://github.com/paigeshin/AOS_Kotlin_function_with_function_argument_example)
 
+# Article
+
+[LiveData as a single event](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150)
+
 # Android Architectural Components
 
 [Data Binding On Git](https://github.com/paigeshin/AOS_Kotlin_Data_Binding)
@@ -460,3 +464,5 @@
 [Kotlin function as argument in function example on Git](https://github.com/paigeshin/AOS_Kotlin_function_with_function_argument_example)
 
 [Kotlin coroutine on git](https://github.com/paigeshin/AOS_kotlin_coroutines)
+
+[Room Example on git](https://github.com/paigeshin/AOS_kotlin_Room_small_project)
