@@ -441,6 +441,10 @@
 
 [How to Build Games for Android](https://www.notion.so/How-to-Build-Games-for-Android-4b36210d19bb481eba00004e586a22e8)
 
+# Advanced Concept
+
+[Kotlin function as argument in function example on Git](https://github.com/paigeshin/AOS_Kotlin_function_with_function_argument_example)
+
 # Android Architectural Components
 
 [Data Binding On Git](https://github.com/paigeshin/AOS_Kotlin_Data_Binding)
@@ -452,3 +456,7 @@
 [ViewBinding with ViewModel & LiveData on Git](https://github.com/paigeshin/AOS_Kotlin_ViewModel_LiveData_DataBinding_Example)
 
 [Navigation Component on Git](https://github.com/paigeshin/AOS_Kotlin_NavigationComponent)
+
+[Kotlin function as argument in function example on Git](https://github.com/paigeshin/AOS_Kotlin_function_with_function_argument_example)
+
+[Kotlin coroutine on git](https://github.com/paigeshin/AOS_kotlin_coroutines)
