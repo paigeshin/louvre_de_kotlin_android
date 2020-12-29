@@ -42,6 +42,10 @@
 
 # Template
 
+[Android Kotlin Room on Git](https://github.com/paigeshin/android_kotlin_room_example)
+
+[Retrofit Exampe on git](https://github.com/paigeshin/AOS_kotlin_retrofit_with_coroutines)
+
 [Template, Navigation Drawer, Theme, Intent settings with activity, animation](https://www.notion.so/Template-Navigation-Drawer-Theme-Intent-settings-with-activity-animation-1bde3841d6214e12b87a6da0f693df5f)
 
 [Template, Base Project Setting for Navigation Drawer Apps](https://www.notion.so/Template-Base-Project-Setting-for-Navigation-Drawer-Apps-3072490f745b4388bf5e154d05701ec0)
@@ -466,3 +470,5 @@
 [Kotlin coroutine on git](https://github.com/paigeshin/AOS_kotlin_coroutines)
 
 [Room Example on git](https://github.com/paigeshin/AOS_kotlin_Room_small_project)
+
+[Retrofit Exampe on git](https://github.com/paigeshin/AOS_kotlin_retrofit_with_coroutines)
