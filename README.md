@@ -20,7 +20,24 @@
 
 [Advanced Kotlin Concept](https://www.notion.so/Advanced-Kotlin-Concept-6be4e8daa5b449a6a81a434396f96277)
 
+# BoilerPlate
+
+[Animation Library, xml ](https://www.notion.so/Animation-Library-xml-d76bc70d48a544cdbad933c2df405631)
+
+[Popular Navigation Animation](https://www.notion.so/Popular-Navigation-Animation-e4b28ec619574412861f85373e9cef74)
+
+[Single LiveEvent, BoilerPlate Code, Must use ](https://www.notion.so/Single-LiveEvent-BoilerPlate-Code-Must-use-7fb3fbe4988a40d7ac9cd4b37cd4dd79)
+
+# Animation
+
+[Animation Library, xml ](https://www.notion.so/
+
+[Popular Navigation Animation](https://www.notion.so/Popular-Navigation-Animation-e4b28ec619574412861f85373e9cef74)Animation-Library-xml-d76bc70d48a544cdbad933c2df405631)
+
+
 # Drawable
+
+[Animation Library, xml ](https://www.notion.so/Animation-Library-xml-d76bc70d48a544cdbad933c2df405631)
 
 [EditText custom background](https://www.notion.so/EditText-custom-background-2b9609e337da4e4c83590e7209a031de)
 
@@ -39,6 +56,10 @@
 [View Binding](https://www.notion.so/View-Binding-6ea9fb3578ba48c9893b7bf32b94fa4e)
 
 [ViewBinding in RecyclerView](https://www.notion.so/ViewBinding-in-RecyclerView-71e5e5323c6e434e89457d1fca86d802)
+
+[RecyclerView, Separate onBindViewHolder with CustomViewHolder `bind()`](https://www.notion.so/RecyclerView-Separate-onBindViewHolder-with-CustomViewHolder-bind-903ba70c8c844c2d9fe7bf0e68a098e4)
+
+[ClickListener as Parameter](https://www.notion.so/ClickListener-as-Parameter-1a4740e3b7d342fa83bf4c6a6c1aacdb)
 
 # Template
 
@@ -161,6 +182,8 @@
 [Input Validation](https://www.notion.so/Input-Validation-993071a8cd734a088d20eef9748b6c3e)
 
 [Input validation using `when` statement](https://www.notion.so/Input-validation-using-when-statement-ea07b9d40bfb45ac9f1be484c4276a73)
+
+[Android Email Check](https://www.notion.so/Android-Email-Check-cd45da3fa2994801bfa81d93d630ab67)
 
 # Asset
 
@@ -305,6 +328,8 @@
 [Android Room Tutorial](https://www.notion.so/Android-Room-Tutorial-1a4456d2272b45d687eb0e1435acc3ad)
 
 # Data Persistence
+
+[Room Database returned value, practical code example](https://www.notion.so/Room-Database-returned-value-practical-code-example-42740f14c7b94c838de371a2ae982944)
 
 [***Android Kotlin Room Data Modeling on Git***](https://github.com/paigeshin/AOS_Koltin_ROOM_datamodeling)
 
