@@ -92,6 +92,8 @@
 
 # Functionality
 
+[Local Notification above API 26 on git](https://github.com/paigeshin/AOS_Kotlin_Notification_API_above_26)
+
 [***Backup & Restore with sqlite***](https://medium.com/dwarsoft/how-to-provide-backup-restore-feature-for-room-database-in-android-d87f111d9c64)
 
 [Set up ActionBar with Drawable Resource](https://www.notion.so/Set-up-ActionBar-with-Drawable-Resource-415a77bc819b465a8ff3a2ebdac07565)
@@ -472,3 +474,5 @@
 [Room Example on git](https://github.com/paigeshin/AOS_kotlin_Room_small_project)
 
 [Retrofit Exampe on git](https://github.com/paigeshin/AOS_kotlin_retrofit_with_coroutines)
+
+[Local Notification above API 26 on git](https://github.com/paigeshin/AOS_Kotlin_Notification_API_above_26)
