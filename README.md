@@ -1,5 +1,18 @@
 # louvre_de_kotlin_android
 
+# Must Use for every project
+
+[android, windowSoftInputMode](https://www.notion.so/android-windowSoftInputMode-3679cdb37b73435997b553715819523d)
+
+[Animation Library, xml ](https://www.notion.so/Animation-Library-xml-d76bc70d48a544cdbad933c2df405631)
+
+[Popular Navigation Animation](https://www.notion.so/Popular-Navigation-Animation-e4b28ec619574412861f85373e9cef74)
+
+[Single LiveEvent, BoilerPlate Code, Must use ](https://www.notion.so/Single-LiveEvent-BoilerPlate-Code-Must-use-7fb3fbe4988a40d7ac9cd4b37cd4dd79)
+
+[MyApplication extends Application](https://www.notion.so/MyApplication-extends-Application-aac587924d0d44f6ae2ed00171cc09ea)
+
+
 # Basic Kotlin Concept
 
 [Additional Resources](https://www.notion.so/Additional-Resources-2cc4f29397974a84b7cb310562b0941e)
@@ -27,6 +40,12 @@
 [Popular Navigation Animation](https://www.notion.so/Popular-Navigation-Animation-e4b28ec619574412861f85373e9cef74)
 
 [Single LiveEvent, BoilerPlate Code, Must use ](https://www.notion.so/Single-LiveEvent-BoilerPlate-Code-Must-use-7fb3fbe4988a40d7ac9cd4b37cd4dd79)
+
+[Custom Dialog Color Picker PopUp](https://www.notion.so/Custom-Dialog-Color-Picker-PopUp-69a1a3785b4c400f883cca5a0a5394ec)
+
+# Layout
+
+[Beautiful InputField layout with cardview, with custom toolbar](https://www.notion.so/Beautiful-InputField-layout-with-cardview-with-custom-toolbar-bd0ccf44bf40484f9b5140807e8829af)
 
 # Animation
 
@@ -245,6 +264,8 @@
 
 # Design
 
+[android, windowSoftInputMode](https://www.notion.so/android-windowSoftInputMode-3679cdb37b73435997b553715819523d)
+
 [Overlay with ImageView](https://www.notion.so/Overlay-with-ImageView-c8ff617dcff245a0896f92b3af3158b3)
 
 [Get Screen Size and convert it to Integer](https://www.notion.so/Get-Screen-Size-and-convert-it-to-Integer-574d81b91ae346c9910a8ba7cafe9143)
@@ -258,6 +279,8 @@
 [editText Set selection focus](https://www.notion.so/editText-Set-selection-focus-6f3362de2d684ace93548b909cfb0325)
 
 # 삽질
+
+[cardview 삽질 방지](https://www.notion.so/cardview-9b4da8e5350145208f03e54e89b503cf)
 
 [cardview corner radius](https://www.notion.so/cardview-9b4da8e5350145208f03e54e89b503cf)
 
