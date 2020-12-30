@@ -257,6 +257,10 @@
 
 [editText Set selection focus](https://www.notion.so/editText-Set-selection-focus-6f3362de2d684ace93548b909cfb0325)
 
+# 삽질
+
+[cardview corner radius](https://www.notion.so/cardview-9b4da8e5350145208f03e54e89b503cf)
+
 # UI Component
 
 [DatePicker](https://www.notion.so/DatePicker-76db8b802c38452abef41fdab411095a)
@@ -478,6 +482,8 @@
 
 # Article
 
+[CardView](https://www.notion.so/cardview-9b4da8e5350145208f03e54e89b503cf#d74b86e7ff7943c28ad05b09f2c26c02)
+
 [LiveData as a single event](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150)
 
 # Android Architectural Components
@@ -501,3 +507,7 @@
 [Retrofit Exampe on git](https://github.com/paigeshin/AOS_kotlin_retrofit_with_coroutines)
 
 [Local Notification above API 26 on git](https://github.com/paigeshin/AOS_Kotlin_Notification_API_above_26)
+
+[WorkManager on Git](https://github.com/paigeshin/Kotlin_AOS_WorkManager)
+
+[Dagger on Git](https://github.com/paigeshin/Kotlin_AOS_Dagger)
