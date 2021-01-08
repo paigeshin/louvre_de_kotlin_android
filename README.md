@@ -49,8 +49,6 @@
 
 # Animation
 
-[Animation Library, xml ](https://www.notion.so/
-
 [Popular Navigation Animation](https://www.notion.so/Popular-Navigation-Animation-e4b28ec619574412861f85373e9cef74)Animation-Library-xml-d76bc70d48a544cdbad933c2df405631)
 
 
@@ -79,6 +77,18 @@
 [RecyclerView, Separate onBindViewHolder with CustomViewHolder `bind()`](https://www.notion.so/RecyclerView-Separate-onBindViewHolder-with-CustomViewHolder-bind-903ba70c8c844c2d9fe7bf0e68a098e4)
 
 [ClickListener as Parameter](https://www.notion.so/ClickListener-as-Parameter-1a4740e3b7d342fa83bf4c6a6c1aacdb)
+
+# Audio
+
+[Audio Recorder](https://github.com/paigeshin/AOS_Kotlin_AudioRecorder)
+
+# Component
+
+[ViewPager2](https://github.com/paigeshin/AOS_Kotlin_Viewpager2)
+
+# Fragment
+
+[Android Fragment Basic](https://github.com/paigeshin/AOS_kotlin_fragment_basic)
 
 # Template
 
@@ -502,6 +512,8 @@
 # Advanced Concept
 
 [Kotlin function as argument in function example on Git](https://github.com/paigeshin/AOS_Kotlin_function_with_function_argument_example)
+
+[let, run, with, also, apply](https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply)
 
 # Article
 
