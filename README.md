@@ -78,13 +78,33 @@
 
 [ClickListener as Parameter](https://www.notion.so/ClickListener-as-Parameter-1a4740e3b7d342fa83bf4c6a6c1aacdb)
 
+# Gradle
+
+[Android BuildConfig, set variable](https://www.notion.so/Android-BuildConfig-set-variable-e02ddbc6c36a4cce955a954759a38868)
+
+# File Handling
+
+[android save image into local, with set OutputFile](https://www.notion.so/android-save-image-into-local-with-set-OutputFile-0a0022f1230c4625ab7300295b0ac490)
+
+[android save video into local with uri](https://www.notion.so/android-save-video-into-local-with-uri-3ab2a207238e4f4abf135ddde81ce282)
+
+[android save image into local storage with bitmap](https://www.notion.so/android-save-image-into-local-storage-with-bitmap-814837b24da641e7a6da4f9a38c0a960)
+
 # Audio
 
 [Audio Recorder](https://github.com/paigeshin/AOS_Kotlin_AudioRecorder)
 
 # Component
 
+[Android, media controller, add custom view](https://www.notion.so/Android-media-controller-add-custom-view-fc7d4822b0f741dfa3ceb37c26901f1a)
+
+[Android, Auto Scale VideoView, Custom Component](https://www.notion.so/Android-Auto-Scale-VideoView-f1611455471745e0bbe936734ccd60f6)
+
 [ViewPager2](https://github.com/paigeshin/AOS_Kotlin_Viewpager2)
+
+[Android ViewPager2 on notion](https://www.notion.so/Android-ViewPager2-a02992d39cc748779baf6dc993a7b6e8)
+
+[Android Audio Recorder](https://www.notion.so/Android-Audio-Recorder-6aa6b4629c0346cf92a66dacafef8d52)
 
 # Fragment
 
@@ -242,9 +262,13 @@
 
 # Layout Programmatically
 
+[Android get height, width of window screen](https://www.notion.so/Android-get-height-width-of-window-screen-215c6043c4014b08a28975d3fcd71b70)
+
 [Layout Params, control view programmatically](https://www.notion.so/Layout-Params-control-view-programmatically-c2ba5ee13f164600bb1a07ca2e066d0b)
 
-# AlertDialog
+# Dialog
+
+[Dialog with options & icons](https://www.notion.so/Dialog-with-options-icons-6a410317f18e42c5b32313c058e126e7)
 
 [Simple Yes & No AlertDialog](https://www.notion.so/Simple-Yes-No-AlertDialog-091120630ccf435695aee8860f7392b4)
 
@@ -402,7 +426,17 @@
 
 [Calculate BMI anywhere](https://www.notion.so/Calculate-BMI-anywhere-c5d0b20b43ec4c4f9ca788ee1ab7ca16)
 
+# Fragment
+
+[Android Fragment Basic](https://www.notion.so/Android-Fragment-Basic-c85fe544177641d4b0a0cbc65341da53)
+
+# Data Handling
+
+[List, Sort kotlin](https://www.notion.so/List-Sort-kotlin-b6b6b85af04b4f4c88ece775fd90a6bc)
+
 # Grammar
+
+[List, Sort kotlin](https://www.notion.so/List-Sort-kotlin-b6b6b85af04b4f4c88ece775fd90a6bc)
 
 [Kotlin object keyword](https://www.notion.so/Kotlin-object-keyword-bb538408bcc34abcabbfc83458f192e4)
 
