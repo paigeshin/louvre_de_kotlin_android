@@ -12,6 +12,11 @@
 
 [MyApplication extends Application](https://www.notion.so/MyApplication-extends-Application-aac587924d0d44f6ae2ed00171cc09ea)
 
+[Preference Manager](https://github.com/paigeshin/Kotlin_AOS_preference_manager)
+
+# Google Provided Library
+
+[Android ExoPlayer](https://www.notion.so/Android-ExoPlayer-bb87e9d14a7e49d29273f38d6de381b5)
 
 # Basic Kotlin Concept
 
@@ -37,6 +42,8 @@
 
 [Paging Library v3, on git](https://github.com/paigeshin/AOS_kotlin_paging_library_v3)
 
+[Android Paging Library v3 on notion](https://www.notion.so/Android-Paging-Library-v3-690fcf33157741cd971c006222507844)
+
 # BoilerPlate
 
 [Animation Library, xml ](https://www.notion.so/Animation-Library-xml-d76bc70d48a544cdbad933c2df405631)
@@ -53,7 +60,11 @@
 
 # Animation
 
+[Bottom Top Animation](https://www.notion.so/Bottom-Top-Animation-2c0f7cc11a134a51adf696435b06bbcb)
+
 [Popular Navigation Animation](https://www.notion.so/Popular-Navigation-Animation-e4b28ec619574412861f85373e9cef74)Animation-Library-xml-d76bc70d48a544cdbad933c2df405631)
+
+[AOS_kotlin_top_to_bottom_bottom_to_top_transiation_animation on Git](https://github.com/paigeshin/AOS_kotlin_top_to_bottom_bottom_to_top_transiation_animation)
 
 
 # Drawable
@@ -99,6 +110,10 @@
 [Audio Recorder](https://github.com/paigeshin/AOS_Kotlin_AudioRecorder)
 
 # Component
+
+[ExoPlayer](https://github.com/paigeshin/AOS_kotlin_EXOPlayer)
+
+[Android SwipeController on notion](https://www.notion.so/Android-SwipeController-75952e97862d43b09b588ed90ca34387)
 
 [Android, Swipe Controller on git](https://github.com/paigeshin/AOS_Kotlin_SwipeController_Swipe_ShowMenu)
 
@@ -168,6 +183,18 @@
 
 # Functionality
 
+[share text](https://www.notion.so/share-text-d5fffbc1a38e4be280be3a9345747e94)
+
+[android Preference Manager](https://www.notion.so/android-Preference-Manager-d90ec85f979c4b119c3ea6da12ef03a2)
+
+[android timepicker dialog](https://www.notion.so/android-timepicker-dialog-d4c12fa77f2a456f831a18597d465b19)
+
+[kotlin android timer on notion](https://www.notion.so/kotlin-android-timer-db854d3a62914c50a2b5028f5270b0dc)
+
+[kotlin countup timer on notion](https://www.notion.so/kotlin-countup-timer-520ca7e25125400fb7efd44a40f3a978)
+
+[kotlin STT on notion](https://www.notion.so/kotlin-STT-89fb47b2dc2448af8292d04cc7826157)
+
 [Preference Manager](https://github.com/paigeshin/Kotlin_AOS_preference_manager)
 
 [CountUp Timer](https://github.com/paigeshin/AOS_kotlin_countupTimer)
@@ -198,9 +225,13 @@
 
 # Push Notification
 
-[Android Local Notification with specific action](https://github.com/paigeshin/AOS_kotlin_localnotification_with_specific_action)
+[Android Local notification with specific action on notion](https://www.notion.so/Android-Local-notification-with-specific-action-0745e9b2efef4ab49b4f2e783121823d)
 
-[Android Local Notification without specific action](https://github.com/paigeshin/AOS_kotlin_localNotification_without_action)
+[Android Local Notification Basic on notion](https://www.notion.so/Android-Local-Notification-Basic-6032a1ba7be64a1c8ae63294fe7ca1c7)
+
+[Android Local Notification with specific action on git](https://github.com/paigeshin/AOS_kotlin_localnotification_with_specific_action)
+
+[Android Local Notification without specific action on git](https://github.com/paigeshin/AOS_kotlin_localNotification_without_action)
 
 [Android Push Notification Using Firebase and Advanced REST Client](https://www.notion.so/Android-Push-Notification-Using-Firebase-and-Advanced-REST-Client-caf0bd1fd72546928c559cc4d3c75a6d)
 
@@ -256,6 +287,12 @@
 
 # Library
 
+[TagView](https://github.com/whilu/AndroidTagView)
+
+[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)
+
+[Badge Counter](https://github.com/leolin310148/ShortcutBadger)
+
 [Library, Glide, Load Image](https://www.notion.so/Library-Glide-Load-Image-cbea3bbe526446ccad07d6cb9d696848)
 
 [Dexter, Third party Permission handling](https://www.notion.so/Dexter-Third-party-Permission-handling-f023b8f4ab744fdb93e55cc3482547dc)
@@ -282,7 +319,13 @@
 
 [Layout Params, control view programmatically](https://www.notion.so/Layout-Params-control-view-programmatically-c2ba5ee13f164600bb1a07ca2e066d0b)
 
+[android get window screen size](https://www.notion.so/android-get-window-screen-size-acaa01a47d3340e49344094a94ba8916)
+
+[android, change drawable color](https://www.notion.so/android-change-drawable-color-4e2941479f4e4fd7b08aaaf776c5ea67)
+
 # Dialog
+
+[android timepicker dialog on notion](https://www.notion.so/android-timepicker-dialog-d4c12fa77f2a456f831a18597d465b19)
 
 [Dialog with options & icons](https://www.notion.so/Dialog-with-options-icons-6a410317f18e42c5b32313c058e126e7)
 
@@ -291,6 +334,8 @@
 [Custom Dialog, Rounded Dialog, Width Control, dismiss keyboard, data binding, Soft Input ](https://www.notion.so/Custom-Dialog-Rounded-Dialog-Width-Control-dismiss-keyboard-data-binding-Soft-Input-35024108e1834e63b8467dd73cc15cdd)
 
 # RecyclerView
+
+[Android Endless Recyclerview on notion](https://www.notion.so/Android-Endless-Recyclerview-8e58f40cd9424670816dd23264bfe6fc)
 
 [RecyclerView Pagination on git](https://github.com/paigeshin/AOS_kotlin_recyclerview_pagination)
 
@@ -437,6 +482,10 @@
 [SQLite CRUD example](https://www.notion.so/SQLite-CRUD-example-18cf13fc57d54ee69b4fc5b63cb296e8)
 
 # Debugging
+
+[Android keyboard, ui handle](https://www.notion.so/Android-keyboard-ui-handle-8d98a879d3d74abda1b0d244c764a3be)
+
+[Android screen media player handle configuration change ](https://www.notion.so/Android-screen-media-player-handle-configuration-change-eb5fb326bc70416387e4cb680e65d939)
 
 [Package 파일 꼬였을 때 해결방법](https://www.notion.so/Package-22ac10356fcd478895f2a89b62319e1c)
 
