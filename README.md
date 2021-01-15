@@ -33,6 +33,10 @@
 
 [Advanced Kotlin Concept](https://www.notion.so/Advanced-Kotlin-Concept-6be4e8daa5b449a6a81a434396f96277)
 
+# JetPack
+
+[Paging Library v3, on git](https://github.com/paigeshin/AOS_kotlin_paging_library_v3)
+
 # BoilerPlate
 
 [Animation Library, xml ](https://www.notion.so/Animation-Library-xml-d76bc70d48a544cdbad933c2df405631)
@@ -95,6 +99,8 @@
 [Audio Recorder](https://github.com/paigeshin/AOS_Kotlin_AudioRecorder)
 
 # Component
+
+[Android, Swipe Controller on git](https://github.com/paigeshin/AOS_Kotlin_SwipeController_Swipe_ShowMenu)
 
 [Android, media controller, add custom view](https://www.notion.so/Android-media-controller-add-custom-view-fc7d4822b0f741dfa3ceb37c26901f1a)
 
@@ -162,6 +168,12 @@
 
 # Functionality
 
+[Preference Manager](https://github.com/paigeshin/Kotlin_AOS_preference_manager)
+
+[CountUp Timer](https://github.com/paigeshin/AOS_kotlin_countupTimer)
+
+[CountDown Timer](https://github.com/paigeshin/AOS_kotlin_timer)
+
 [Local Notification above API 26 on git](https://github.com/paigeshin/AOS_Kotlin_Notification_API_above_26)
 
 [***Backup & Restore with sqlite***](https://medium.com/dwarsoft/how-to-provide-backup-restore-feature-for-room-database-in-android-d87f111d9c64)
@@ -170,9 +182,9 @@
 
 [Splash](https://www.notion.so/Splash-a8c44a67f3754e44b64eee9607b74bcb)
 
-[Timer Example](https://www.notion.so/Timer-Example-de4ebe70faf14aeeafcbe7b98b363a07)
+[CountDown Timer](https://www.notion.so/Timer-Example-de4ebe70faf14aeeafcbe7b98b363a07)
 
-[Share (intent)](https://www.notion.so/Share-Email-7fad5c46ff3d4a1daa97d002c0343c90)
+[Share Image (intent)](https://www.notion.so/Share-Email-7fad5c46ff3d4a1daa97d002c0343c90)
 
 [TTS kotlin](https://www.notion.so/TTS-kotlin-924f03e720644f23818c9d7f57153615)
 
@@ -185,6 +197,10 @@
 [Create refresh with onActivityForResult](https://www.notion.so/Create-refresh-with-onActivityForResult-396e0d8431ce4522a9b537f746c36d33)
 
 # Push Notification
+
+[Android Local Notification with specific action](https://github.com/paigeshin/AOS_kotlin_localnotification_with_specific_action)
+
+[Android Local Notification without specific action](https://github.com/paigeshin/AOS_kotlin_localNotification_without_action)
 
 [Android Push Notification Using Firebase and Advanced REST Client](https://www.notion.so/Android-Push-Notification-Using-Firebase-and-Advanced-REST-Client-caf0bd1fd72546928c559cc4d3c75a6d)
 
@@ -275,6 +291,8 @@
 [Custom Dialog, Rounded Dialog, Width Control, dismiss keyboard, data binding, Soft Input ](https://www.notion.so/Custom-Dialog-Rounded-Dialog-Width-Control-dismiss-keyboard-data-binding-Soft-Input-35024108e1834e63b8467dd73cc15cdd)
 
 # RecyclerView
+
+[RecyclerView Pagination on git](https://github.com/paigeshin/AOS_kotlin_recyclerview_pagination)
 
 [Adding The Drag and Drop Feature in RecyclerView](https://www.notion.so/Adding-The-Drag-and-Drop-Feature-in-RecyclerView-0fb6b675967a432282701b99cfc147dd)
 
