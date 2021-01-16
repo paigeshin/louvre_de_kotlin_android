@@ -14,6 +14,10 @@
 
 [Preference Manager](https://github.com/paigeshin/Kotlin_AOS_preference_manager)
 
+[Button or Event Debouncing](https://www.notion.so/Button-or-Event-Debouncing-1d314226533f49a99b84a5a09bb3a882)
+
+[google ads test value](https://www.notion.so/google-ads-test-value-91038b5afc5547f087cc188ae7e64bb6)
+
 # Google Provided Library
 
 [Android ExoPlayer](https://www.notion.so/Android-ExoPlayer-bb87e9d14a7e49d29273f38d6de381b5)
@@ -53,6 +57,10 @@
 [Single LiveEvent, BoilerPlate Code, Must use ](https://www.notion.so/Single-LiveEvent-BoilerPlate-Code-Must-use-7fb3fbe4988a40d7ac9cd4b37cd4dd79)
 
 [Custom Dialog Color Picker PopUp](https://www.notion.so/Custom-Dialog-Color-Picker-PopUp-69a1a3785b4c400f883cca5a0a5394ec)
+
+# Event Handling
+
+[Button or Event Debouncing](https://www.notion.so/Button-or-Event-Debouncing-1d314226533f49a99b84a5a09bb3a882)
 
 # Layout
 
@@ -111,6 +119,14 @@
 
 # Component
 
+[Google Admob integration](https://www.notion.so/Google-Admob-integration-4725036a83cb410a9e6c5a50b82250cd)
+
+[Custom Progress Bar](https://www.notion.so/Custom-Progress-Bar-0189054f8afd42228406df86de7c6ec6)
+
+[Kotlin Singleton example](https://www.notion.so/Kotlin-Singleton-example-a0021d09b06a47e2aeb8c2b0788431ba)
+
+[Check Internet Availability](https://www.notion.so/Check-Internet-Availability-fd4748a9c8874a22957f22dab3fea3fd)
+
 [ExoPlayer](https://github.com/paigeshin/AOS_kotlin_EXOPlayer)
 
 [Android SwipeController on notion](https://www.notion.so/Android-SwipeController-75952e97862d43b09b588ed90ca34387)
@@ -161,7 +177,19 @@
 
 # Business
 
+[Google Admob integration](https://www.notion.so/Google-Admob-integration-4725036a83cb410a9e6c5a50b82250cd)
+
 [Publish your first Kotlin App](https://tutorials.eu/generate-a-signed-apk-in-android-studio-and-upload-it-on-google-play-store/)
+
+[Admob on git](https://github.com/paigeshin/AOS_kotlin_admob)
+
+[Admob on notion](https://www.notion.so/Android-advertisement-cbe20098731c487496405465e9b02b0e)
+
+[Native ad on git](https://github.com/paigeshin/AOS_kotlin_recyclerview_with_native_ad)
+
+[Admob Component on git](https://github.com/paigeshin/Kotlin_AOS_my_google_ad_templates)
+
+[android native ad step by step](https://www.notion.so/android-native-ad-step-by-step-b6a71b87f5cb47bc9a8e4d48c9e74922)
 
 # Handler
 
@@ -315,6 +343,8 @@
 
 # Layout Programmatically
 
+[add view programmatically](https://www.notion.so/add-view-programmatically-16e13998a0374253bd391b7c0da8cedc)
+
 [Android get height, width of window screen](https://www.notion.so/Android-get-height-width-of-window-screen-215c6043c4014b08a28975d3fcd71b70)
 
 [Layout Params, control view programmatically](https://www.notion.so/Layout-Params-control-view-programmatically-c2ba5ee13f164600bb1a07ca2e066d0b)
@@ -324,6 +354,8 @@
 [android, change drawable color](https://www.notion.so/android-change-drawable-color-4e2941479f4e4fd7b08aaaf776c5ea67)
 
 # Dialog
+
+[android native ad dialog](https://www.notion.so/android-native-ad-dialog-2ebb1ab765d5477a852cb6ede310f132)
 
 [android timepicker dialog on notion](https://www.notion.so/android-timepicker-dialog-d4c12fa77f2a456f831a18597d465b19)
 
@@ -382,6 +414,8 @@
 [cardview corner radius](https://www.notion.so/cardview-9b4da8e5350145208f03e54e89b503cf)
 
 # UI Component
+
+[Custom Progress Bar](https://www.notion.so/Custom-Progress-Bar-0189054f8afd42228406df86de7c6ec6)
 
 [DatePicker](https://www.notion.so/DatePicker-76db8b802c38452abef41fdab411095a)
 
@@ -503,6 +537,8 @@
 
 # Grammar
 
+[Kotlin Singleton example](https://www.notion.so/Kotlin-Singleton-example-a0021d09b06a47e2aeb8c2b0788431ba)
+
 [List, Sort kotlin](https://www.notion.so/List-Sort-kotlin-b6b6b85af04b4f4c88ece775fd90a6bc)
 
 [Kotlin object keyword](https://www.notion.so/Kotlin-object-keyword-bb538408bcc34abcabbfc83458f192e4)
@@ -519,7 +555,8 @@
 
 [Storing the images on the device](https://www.notion.so/Storing-the-images-on-the-device-64ac2296e07248f7ad7863ad68326ebb)
 
-# Business
+
+[android native ad dialog](https://www.notion.so/android-native-ad-dialog-2ebb1ab765d5477a852cb6ede310f132)
 
 [Integrate ADMOB](https://www.notion.so/Integrate-ADMOB-ce7767af8a3a49bc846f406a4a4e40bb)
 
