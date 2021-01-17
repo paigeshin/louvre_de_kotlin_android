@@ -209,7 +209,25 @@
 
 [Parcelable model for objects](https://www.notion.so/Parcelable-model-for-objects-92954e400da3447eb29e5b788a3fabfa)
 
+# BackUp
+
+[Kotlin based, file backup with zip](https://www.notion.so/Kotlin-based-file-backup-with-zip-e19be08ab9234918b8692ed63f7d6b3d)
+
+[zip library](https://www.notion.so/zip-library-7aec7294d5ac4b509cb460b5c3499812)
+
+[android auto backup upto 25mb on notion](https://www.notion.so/android-auto-backup-upto-25mb-5b78d4e18211453e8fd485fd05eb259b)
+
+[Local Full Backup by making zip file on git](https://github.com/paigeshin/AOS_kotlin_localbackup_fully)
+
+[Local Full Backup by making zip file on git - article](https://medium.com/@spians/exploring-how-to-provide-your-own-backup-restore-mechanism-in-your-android-app-99e5885ff7ed)
+
 # Functionality
+
+[MultiLanguage Support](https://github.com/paigeshin/android_multi_language_support)
+
+[Local Full Backup by making zip file on git](https://github.com/paigeshin/AOS_kotlin_localbackup_fully)
+
+[Local Full Backup by making zip file on git - article](https://medium.com/@spians/exploring-how-to-provide-your-own-backup-restore-mechanism-in-your-android-app-99e5885ff7ed)
 
 [share text](https://www.notion.so/share-text-d5fffbc1a38e4be280be3a9345747e94)
 
@@ -327,6 +345,8 @@
 
 [DB Inspector Library (for sqlite)](https://www.notion.so/DB-Inspector-Library-for-sqlite-7700d4642bb64258a1aad13bfae86a46)
 
+[zip library](https://www.notion.so/zip-library-7aec7294d5ac4b509cb460b5c3499812)
+
 # Util
 
 [TimeStamp to date](https://www.notion.so/TimeStamp-to-date-c3efa47ccddc461188963fcf0dd8df72)
@@ -353,7 +373,11 @@
 
 [android, change drawable color](https://www.notion.so/android-change-drawable-color-4e2941479f4e4fd7b08aaaf776c5ea67)
 
+[Kotlin EditTextAlertDialog + UI Coding Programmatically](https://www.notion.so/Kotlin-EditTextAlertDialog-UI-Coding-Programmatically-8bf225e555764045817971f31cf3bcf8)
+
 # Dialog
+
+[Kotlin EditTextAlertDialog + UI Coding Programmatically](https://www.notion.so/Kotlin-EditTextAlertDialog-UI-Coding-Programmatically-8bf225e555764045817971f31cf3bcf8)
 
 [android native ad dialog](https://www.notion.so/android-native-ad-dialog-2ebb1ab765d5477a852cb6ede310f132)
 
@@ -654,6 +678,8 @@
 [let, run, with, also, apply](https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply)
 
 # Article
+
+[Local data backup](https://medium.com/@spians/exploring-how-to-provide-your-own-backup-restore-mechanism-in-your-android-app-99e5885ff7ed)
 
 [CardView](https://www.notion.so/cardview-9b4da8e5350145208f03e54e89b503cf#d74b86e7ff7943c28ad05b09f2c26c02)
 
