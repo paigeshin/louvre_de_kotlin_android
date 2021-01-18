@@ -18,9 +18,33 @@
 
 [google ads test value](https://www.notion.so/google-ads-test-value-91038b5afc5547f087cc188ae7e64bb6)
 
+[Internal app Review](https://github.com/paigeshin/android_internal_review_google_provided_library)
+
+[Send Email Dialog Component](https://www.notion.so/Send-Email-Dialog-Component-ba772ad58d714601a74abf4ec8565004)
+
+[android code 난독화 minify source code, Proguard](https://www.notion.so/android-code-minify-source-code-Proguard-b40e4492417a450da8bd2992c6bf299b)
+
+# XML Layout Asset
+
+[Android, Purchase Screen XML Source](https://www.notion.so/Android-Purchase-Screen-XML-Source-f6426691c807463db1c2f3998ec6e4de)
+
+# XML Drawable Asset
+
+
+
+# Tips
+
+- 앱이 죽기전에 dialog를 dismiss 해줘야한다
+
+# LifeCycle
+
+[앱 재시작 ](https://www.notion.so/ba2577c51a5b46568a37464e822bc317)
+
 # Google Provided Library
 
 [Android ExoPlayer](https://www.notion.so/Android-ExoPlayer-bb87e9d14a7e49d29273f38d6de381b5)
+
+[Internal app Review](https://github.com/paigeshin/android_internal_review_google_provided_library)
 
 # Basic Kotlin Concept
 
@@ -119,6 +143,8 @@
 
 # Component
 
+[Send Email Dialog Component](https://www.notion.so/Send-Email-Dialog-Component-ba772ad58d714601a74abf4ec8565004)
+
 [Google Admob integration](https://www.notion.so/Google-Admob-integration-4725036a83cb410a9e6c5a50b82250cd)
 
 [Custom Progress Bar](https://www.notion.so/Custom-Progress-Bar-0189054f8afd42228406df86de7c6ec6)
@@ -176,6 +202,12 @@
 [Parcelable with ArrayList](https://www.notion.so/Parcelable-with-ArrayList-850acd7dec324feeae3c41d8d97fccb3)
 
 # Business
+
+[앱출시하기 APK](https://www.notion.so/8c3d608d7e6b4a858a7370fed31dd276)
+
+[개발자등록](https://www.notion.so/47b91381f03a44db867a5d595b2a6f5e)
+
+[Integrate App Reviews ](https://www.notion.so/Integrate-App-Reviews-b813aff7fac8479cbf214381971e4fea)
 
 [Google Admob integration](https://www.notion.so/Google-Admob-integration-4725036a83cb410a9e6c5a50b82250cd)
 
@@ -361,7 +393,15 @@
 
 [Image Chooser](https://www.notion.so/Image-Chooser-496efc60a867411899027b9e9f8c0704)
 
+# MultiLingual Support
+
+[get system default locale ](https://www.notion.so/get-system-default-locale-989fc7afa5de4924bcdd666de561c277)
+
+[Change local language](https://www.notion.so/Change-local-language-9822ac6dcd8c4f8d90b5e9cc692a7ff8)
+
 # Layout Programmatically
+
+[Give margin programmatically](https://www.notion.so/Give-margin-programmatically-9fa6c97cc96f499e8e62f274c78d0720)
 
 [add view programmatically](https://www.notion.so/add-view-programmatically-16e13998a0374253bd391b7c0da8cedc)
 
