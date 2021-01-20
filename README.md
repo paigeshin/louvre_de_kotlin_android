@@ -31,6 +31,24 @@
 # XML Drawable Asset
 
 
+# Layout 
+
+[xml, merge tag with constraintlayout, create your own template & landscape layout on notion](https://www.notion.so/xml-merge-tag-with-constraintlayout-create-your-own-template-landscape-layout-624b6722d85544f78114e891549832a2)
+
+[merge tag with constraint layout, landscape mode on git](https://github.com/paigeshin/AOS_reusable_layout_merge_tag)
+
+
+
+
+# My Animation Library
+
+[AOS_kotlin_anim_swaping_constraintlayout with placeholder on git](https://github.com/paigeshin/AOS_kotlin_anim_swaping_constraintlayout)
+
+[Swapview Animation using placeholder with placeholder on notion](https://www.notion.so/Swapview-Animation-using-placeholder-f87852d0ad134fba9acf3a4806cac0ac)
+
+[android swapview with constraints with two layouts on notion](https://www.notion.so/android-swapview-with-constraints-3218020179d14e5d83102baa0cf98b5d)
+
+[android swapview with constraints with two layouts on notion on git](https://github.com/paigeshin/Kotlin_AOS_animation_swapview_with_two_layouts)
 
 # Tips
 
