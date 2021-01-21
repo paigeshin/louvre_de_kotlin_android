@@ -24,6 +24,8 @@
 
 [android code 난독화 minify source code, Proguard](https://www.notion.so/android-code-minify-source-code-Proguard-b40e4492417a450da8bd2992c6bf299b)
 
+[Search Functionality on AppBar or Toolbar](https://www.notion.so/Search-Functionality-on-AppBar-or-ToolbAR-b8df6c1224364a23b777d756bc33d292)
+
 # XML Layout Asset
 
 [Android, Purchase Screen XML Source](https://www.notion.so/Android-Purchase-Screen-XML-Source-f6426691c807463db1c2f3998ec6e4de)
@@ -277,6 +279,8 @@
 
 # Functionality
 
+[Search Functionality on AppBar or Toolbar](https://www.notion.so/Search-Functionality-on-AppBar-or-ToolbAR-b8df6c1224364a23b777d756bc33d292)
+
 [MultiLanguage Support](https://github.com/paigeshin/android_multi_language_support)
 
 [Local Full Backup by making zip file on git](https://github.com/paigeshin/AOS_kotlin_localbackup_fully)
@@ -336,6 +340,32 @@
 [Android Push Notification Using Firebase and Advanced REST Client](https://www.notion.so/Android-Push-Notification-Using-Firebase-and-Advanced-REST-Client-caf0bd1fd72546928c559cc4d3c75a6d)
 
 [Push Notification](https://www.notion.so/Push-Notification-632dcd2dff0546ebb8edb0121cebda1d)
+
+# Material Components 
+
+[Material Components on github](https://github.com/paigeshin/AOS_Kotlin_MaterialComponents)
+
+[BottomNavigationview](https://www.notion.so/BottomNavigationview-4b6586681d154f2691615a8ece2963f3)
+
+[Snackbar](https://www.notion.so/Snackbar-4453916226c64cf6900777988f4f5b29)
+
+[AlertDialog](https://www.notion.so/AlertDialog-9e2ca56966b242e4b601c0ef8e93243a)
+
+[Floating Button](https://www.notion.so/Floating-Button-1907a9b3e8be4d6a9440bcf7657ac25a)
+
+[Bottom App Bar](https://www.notion.so/Bottom-App-Bar-185df082017f4adda79535ff1aec2cdf)
+
+[Bottom Sheet](https://www.notion.so/Bottom-Sheet-9b3727130aaf4e20a5de250d640c6f9c)
+
+[Date Picker](https://www.notion.so/Date-Picker-304fda9684e44f2285a3eea449db40c4)
+
+[Top App Bar](https://www.notion.so/Top-App-Bar-03b661a029164632a9c8de7308c61d86)
+
+[TextFields](https://www.notion.so/TextFields-7f8e984aade94a5ea46efadcdb3c451f)
+
+[NavigationDrawer](https://www.notion.so/NavigationDrawer-699d39120925479fb37222ffcc4eddf4)
+
+[Tab Layout](https://www.notion.so/Tab-Layout-d68574c445804975a1bada59e1d2750b)
 
 # Firebase
 
@@ -492,6 +522,37 @@
 [Make window full screen](https://www.notion.so/Make-window-full-screen-a195a2b84d4b4e95b4155226ff004232)
 
 [editText Set selection focus](https://www.notion.so/editText-Set-selection-focus-6f3362de2d684ace93548b909cfb0325)
+
+[Handle ActionBar](https://www.notion.so/Handle-ActionBar-a5a8680061db4eae8d4adc94cfcfc453)
+
+[Customize Toolbar](https://www.notion.so/Customize-Toolbar-981584f972c543788c06efa21b173138)
+
+[Android Dark Mode](https://www.notion.so/Android-Dark-Mode-9928b32a6cf54a3491e2a23325a41c64)
+
+[Android get font from layout](https://www.notion.so/Android-get-font-from-layout-8bad3d6344954ca6b51cd80b6734cecc)
+
+[Android Color Explained](https://www.notion.so/Android-Color-Explained-594ae0230b064be0acc00f2497d48e76)
+
+[Android Themes, Check other themes ](https://www.notion.so/Android-Themes-Check-other-themes-26927c6c0fc647f7ac4c5a81ee8bcce5)
+
+[Android Dynamic Theming](https://www.notion.so/Android-Dynamic-Theming-59b6399367fc46e9a713f5d7f7d7cee4)
+
+[Coordinator Layout](https://www.notion.so/Coordinator-Layout-deff4527c2a84bc2a111d777765c40b7)
+
+[Android Change Entire font size](https://www.notion.so/Android-Change-Entire-font-size-c874ee63d99c4ec59017cfb8d2cae886)
+
+[Android Coordinator Layout](https://www.notion.so/Android-Coordinator-Layout-3ac957b3626b4072810db5db97514c7a)
+
+[Android Coordinator Layout Template with viewpager](https://www.notion.so/Android-Coordinator-Layout-Template-with-viewpager-1e2d7a9e435c4537b30086a826710baf)
+
+[Simple ItemView XML Asset for Text Post ](https://www.notion.so/Simple-ItemView-XML-Asset-for-Text-Post-5908120bb9e24d74a2c31fa74f700ca0)
+
+[Android TransitionManager](https://www.notion.so/Android-TransitionManager-46d794f6a85d4a0b98f286dce9fa3ac7)
+
+[SharedElementTransition](https://www.notion.so/SharedElementTransition-d13f773ba474456197fd7b4a1809b371)
+
+[Search Functionality on AppBar or Toolbar](https://www.notion.so/Search-Functionality-on-AppBar-or-ToolbAR-b8df6c1224364a23b777d756bc33d292)
+
 
 # 삽질
 
