@@ -40,8 +40,6 @@
 [merge tag with constraint layout, landscape mode on git](https://github.com/paigeshin/AOS_reusable_layout_merge_tag)
 
 
-
-
 # My Animation Library
 
 [AOS_kotlin_anim_swaping_constraintlayout with placeholder on git](https://github.com/paigeshin/AOS_kotlin_anim_swaping_constraintlayout)
@@ -113,6 +111,14 @@
 [Beautiful InputField layout with cardview, with custom toolbar](https://www.notion.so/Beautiful-InputField-layout-with-cardview-with-custom-toolbar-bd0ccf44bf40484f9b5140807e8829af)
 
 # Animation
+
+[YoYo animation Library](https://www.notion.so/android-animation-library-0548dcf252934e81ab8967b29cbe9231)
+
+[YoYo animation Library on git](https://github.com/paigeshin/AOS_Kotlin_Animation_Library_YOYO)
+
+[5 beautiful android animation libraries](https://levelup.gitconnected.com/5-beautiful-android-animation-libraries-2020-470e01875e66)
+
+[20 useful animation libraries](https://netpeak.net/blog/20-best-android-animation-ui-ux-libraries/)
 
 [Bottom Top Animation](https://www.notion.so/Bottom-Top-Animation-2c0f7cc11a134a51adf696435b06bbcb)
 
@@ -801,6 +807,10 @@
 [let, run, with, also, apply](https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply)
 
 # Article
+
+[5 beautiful android animation libraries](https://levelup.gitconnected.com/5-beautiful-android-animation-libraries-2020-470e01875e66)
+
+[20 useful animation libraries](https://netpeak.net/blog/20-best-android-animation-ui-ux-libraries/)
 
 [Local data backup](https://medium.com/@spians/exploring-how-to-provide-your-own-backup-restore-mechanism-in-your-android-app-99e5885ff7ed)
 
