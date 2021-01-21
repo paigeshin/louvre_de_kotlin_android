@@ -48,6 +48,8 @@
 
 [android swapview with constraints with two layouts on notion](https://www.notion.so/android-swapview-with-constraints-3218020179d14e5d83102baa0cf98b5d)
 
+[https://github.com/paigeshin/AOS_animation_TransitionManager](https://github.com/paigeshin/AOS_animation_TransitionManager)
+
 [android swapview with constraints with two layouts on notion on git](https://github.com/paigeshin/Kotlin_AOS_animation_swapview_with_two_layouts)
 
 # Tips
@@ -192,6 +194,8 @@
 [Android Fragment Basic](https://github.com/paigeshin/AOS_kotlin_fragment_basic)
 
 # Template
+
+[FragmentViewPager with coordinate Layot on github](https://github.com/paigeshin/AOS_Kotlin_Coordinator_FragmentViewPager_Template)
 
 [Android Kotlin Room on Git](https://github.com/paigeshin/android_kotlin_room_example)
 
