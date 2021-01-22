@@ -33,6 +33,8 @@
 # XML Drawable Asset
 
 
+
+
 # Layout 
 
 [xml, merge tag with constraintlayout, create your own template & landscape layout on notion](https://www.notion.so/xml-merge-tag-with-constraintlayout-create-your-own-template-landscape-layout-624b6722d85544f78114e891549832a2)
@@ -201,6 +203,11 @@
 
 [Android Fragment Basic](https://github.com/paigeshin/AOS_kotlin_fragment_basic)
 
+[Fragment Tutorial on Notion](https://www.notion.so/Fragment-Tutorial-34d36b7a9d7a43fab044da7ede1ffa29)
+
+[Fragment Tutorial on Git](https://github.com/paigeshin/AOS_Kotlin_fragment_tutorial)
+
+
 # Template
 
 [FragmentViewPager with coordinate Layot on github](https://github.com/paigeshin/AOS_Kotlin_Coordinator_FragmentViewPager_Template)
@@ -232,6 +239,10 @@
 [Parcelable with ArrayList](https://www.notion.so/Parcelable-with-ArrayList-850acd7dec324feeae3c41d8d97fccb3)
 
 # Business
+
+[InApp Purchase on Git](https://github.com/paigeshin/AOS_KOTLIN_IN_APP_PURCHASE)
+
+[InApp Purchase on Notion](https://www.notion.so/In-App-Purchase-493c02d3abbe47449bb13e2868f68354)
 
 [앱출시하기 APK](https://www.notion.so/8c3d608d7e6b4a858a7370fed31dd276)
 
