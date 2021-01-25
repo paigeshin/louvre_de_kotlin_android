@@ -26,6 +26,15 @@
 
 [Search Functionality on AppBar or Toolbar](https://www.notion.so/Search-Functionality-on-AppBar-or-ToolbAR-b8df6c1224364a23b777d756bc33d292)
 
+[RecyclerView with ViewBinding most efficient way ](https://www.notion.so/RecyclerView-with-ViewBinding-most-efficient-way-b0ef882d07d34328918832cb650e0b09)
+
+[Material Custom AlertDialog + PickerView](https://www.notion.so/Material-Custom-AlertDialog-PickerView-301f5aa45793478a8005072d4874457d)
+
+[Kotlin - handle global font size & font](https://www.notion.so/Kotlin-handle-global-font-size-font-412b7bb57083425e824ec38253ddf0f1)
+
+[Locale Wrapper, user selected language handling](https://www.notion.so/Locale-Wrapper-user-selected-language-handling-d0ad63826afb4be1a9f884e0d8165d0c)
+
+
 # XML Layout Asset
 
 [Android, Purchase Screen XML Source](https://www.notion.so/Android-Purchase-Screen-XML-Source-f6426691c807463db1c2f3998ec6e4de)
@@ -40,6 +49,25 @@
 [xml, merge tag with constraintlayout, create your own template & landscape layout on notion](https://www.notion.so/xml-merge-tag-with-constraintlayout-create-your-own-template-landscape-layout-624b6722d85544f78114e891549832a2)
 
 [merge tag with constraint layout, landscape mode on git](https://github.com/paigeshin/AOS_reusable_layout_merge_tag)
+
+
+# ViewPager1 & ViewPager2 
+
+[Basic ViewPager1](https://www.notion.so/Basic-ViewPager-e9f5bffc757742cba45d434fcf099b61)
+
+[ViewPager2 Animation + Automatic Infinite Scrolling ](https://www.notion.so/ViewPager2-Animation-Automatic-Infinite-Scrolling-a1b27588a98d480599427623c4fc7029)
+
+[InfiniteCycleView, ViewPager1 Library](https://www.notion.so/InfiniteCycleView-ViewPager1-Library-a941728ee6594196a661e8e57ec3a3a1)
+
+# Tips
+
+[instead of `recreate` for smooth operation](https://www.notion.so/instead-of-recreate-for-smooth-operation-57454b7d2e9e411ea2e8dc9bdc17ac74)
+
+# Realm
+
+[Realm on git](https://github.com/paigeshin/AOS_kotlin_realm)
+
+[Realm on notion](https://www.notion.so/Realm-Android-b7c316f2a7a14422b5c856cd8af4782c)
 
 
 # My Animation Library
@@ -104,6 +132,12 @@
 
 [Custom Dialog Color Picker PopUp](https://www.notion.so/Custom-Dialog-Color-Picker-PopUp-69a1a3785b4c400f883cca5a0a5394ec)
 
+# Extension
+
+[extensions, Change TabLayout & BottomNavigationView font and fontsize](https://www.notion.so/extensions-Change-TabLayout-BottomNavigationView-font-and-fontsize-3049d97f18cf4834a2019e41ea4a7f4d)
+
+[Kotlin Extension - TextView Animation](https://www.notion.so/Kotlin-Extension-TextView-Animation-772a62cad2074165a9ff1d88f36c5ba0)
+
 # Event Handling
 
 [Button or Event Debouncing](https://www.notion.so/Button-or-Event-Debouncing-1d314226533f49a99b84a5a09bb3a882)
@@ -113,6 +147,8 @@
 [Beautiful InputField layout with cardview, with custom toolbar](https://www.notion.so/Beautiful-InputField-layout-with-cardview-with-custom-toolbar-bd0ccf44bf40484f9b5140807e8829af)
 
 # Animation
+
+[Kotlin Extension - TextView Animation](https://www.notion.so/Kotlin-Extension-TextView-Animation-772a62cad2074165a9ff1d88f36c5ba0)
 
 [YoYo animation Library](https://www.notion.so/android-animation-library-0548dcf252934e81ab8967b29cbe9231)
 
@@ -172,6 +208,8 @@
 [Audio Recorder](https://github.com/paigeshin/AOS_Kotlin_AudioRecorder)
 
 # Component
+
+[Material Custom AlertDialog + PickerView](https://www.notion.so/Material-Custom-AlertDialog-PickerView-301f5aa45793478a8005072d4874457d)
 
 [Send Email Dialog Component](https://www.notion.so/Send-Email-Dialog-Component-ba772ad58d714601a74abf4ec8565004)
 
@@ -434,6 +472,8 @@
 
 # Library
 
+[InfiniteCycleView, ViewPager1 Library](https://www.notion.so/InfiniteCycleView-ViewPager1-Library-a941728ee6594196a661e8e57ec3a3a1)
+
 [android animation library on git](https://github.com/paigeshin/AOS_Kotlin_Animation_Library_YOYO)
 
 [android animation library on notion](https://www.notion.so/android-animation-library-0548dcf252934e81ab8967b29cbe9231)
@@ -468,11 +508,18 @@
 
 # MultiLingual Support
 
+[Locale Wrapper, user selected language handling](https://www.notion.so/Locale-Wrapper-user-selected-language-handling-d0ad63826afb4be1a9f884e0d8165d0c)
+
 [get system default locale ](https://www.notion.so/get-system-default-locale-989fc7afa5de4924bcdd666de561c277)
 
 [Change local language](https://www.notion.so/Change-local-language-9822ac6dcd8c4f8d90b5e9cc692a7ff8)
 
+
 # Layout Programmatically
+
+[extensions, Change TabLayout & BottomNavigationView font and fontsize](https://www.notion.so/extensions-Change-TabLayout-BottomNavigationView-font-and-fontsize-3049d97f18cf4834a2019e41ea4a7f4d)
+
+[get attr value programmatically](https://www.notion.so/get-attr-value-programmatically-2c2bc014feb74de68353f855c164ce48)
 
 [Give margin programmatically](https://www.notion.so/Give-margin-programmatically-9fa6c97cc96f499e8e62f274c78d0720)
 
@@ -504,6 +551,8 @@
 
 # RecyclerView
 
+[RecyclerView with ViewBinding most efficient way ](https://www.notion.so/RecyclerView-with-ViewBinding-most-efficient-way-b0ef882d07d34328918832cb650e0b09)
+
 [Android Endless Recyclerview on notion](https://www.notion.so/Android-Endless-Recyclerview-8e58f40cd9424670816dd23264bfe6fc)
 
 [RecyclerView Pagination on git](https://github.com/paigeshin/AOS_kotlin_recyclerview_pagination)
@@ -529,6 +578,8 @@
 [RecyclerView, delete item ](https://www.notion.so/RecyclerView-delete-item-ea9719e506ab4dbf8a2a930b472ea5c1)
 
 # Design
+
+[Kotlin - handle global font size & font](https://www.notion.so/Kotlin-handle-global-font-size-font-412b7bb57083425e824ec38253ddf0f1)
 
 [android, windowSoftInputMode](https://www.notion.so/android-windowSoftInputMode-3679cdb37b73435997b553715819523d)
 
