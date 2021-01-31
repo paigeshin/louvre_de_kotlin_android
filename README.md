@@ -31,8 +31,11 @@
 [Material Custom AlertDialog + PickerView](https://www.notion.so/Material-Custom-AlertDialog-PickerView-301f5aa45793478a8005072d4874457d)
 
 [Kotlin - handle global font size & font](https://www.notion.so/Kotlin-handle-global-font-size-font-412b7bb57083425e824ec38253ddf0f1)
+https://github.com/klinker24/Android-DragDismissActivity
 
 [Locale Wrapper, user selected language handling](https://www.notion.so/Locale-Wrapper-user-selected-language-handling-d0ad63826afb4be1a9f884e0d8165d0c)
+
+[dissmiss keyboard when touching outside](https://www.notion.so/dissmiss-keyboard-when-touching-outside-0700e20c6e2645c2adaa32b73aaddc24)
 
 
 # XML Layout Asset
@@ -42,7 +45,15 @@
 # XML Drawable Asset
 
 
+# STT
 
+[Kotlin STT set specific langauge](https://www.notion.so/Kotlin-STT-set-specific-langauge-5f24793b13814eb2a6da5cea715bc6b7)
+
+[kotlin STT on notion](https://www.notion.so/kotlin-STT-89fb47b2dc2448af8292d04cc7826157)
+
+# TTS
+
+[Android TTS](https://www.notion.so/Android-TTS-eee7b6ac764546f0b5167c9bc8c2982a)
 
 # Layout 
 
@@ -52,6 +63,8 @@
 
 
 # ViewPager1 & ViewPager2 
+
+[Infinite CircleView with Indicator](https://www.notion.so/Infinite-CircleView-with-Indicator-88556600e60e4c62bca3e050e0d3155c)
 
 [Basic ViewPager1](https://www.notion.so/Basic-ViewPager-e9f5bffc757742cba45d434fcf099b61)
 
@@ -115,6 +128,10 @@
 [OOP](https://www.notion.so/OOP-f2128be28b6c4a02ac29f381f8be9d68)
 
 [Advanced Kotlin Concept](https://www.notion.so/Advanced-Kotlin-Concept-6be4e8daa5b449a6a81a434396f96277)
+
+# Essential Techniques
+
+[dissmiss keyboard when touching outside](https://www.notion.so/dissmiss-keyboard-when-touching-outside-0700e20c6e2645c2adaa32b73aaddc24)
 
 # JetPack
 
@@ -207,7 +224,19 @@
 
 [Audio Recorder](https://github.com/paigeshin/AOS_Kotlin_AudioRecorder)
 
+# Essential View
+
+[AutoComplete TextView](https://www.notion.so/AutoComplete-TextView-9e63af08d5114ab7b4c59d3311db649d)
+
+[Infinite CircleView with Indicator](https://www.notion.so/Infinite-CircleView-with-Indicator-88556600e60e4c62bca3e050e0d3155c)
+
+[BottomNavigationView Customization](https://www.notion.so/BottomNavigationView-Customization-20caff2281794d86af09aa063f455eca)
+
 # Component
+
+[simple inputText + share dialog ](https://www.notion.so/simple-inputText-share-dialog-40c46570270b4b14a7615c725ba0291f)
+
+[email dialog v2](https://www.notion.so/email-dialog-v2-53f349975deb47748d10e0434091c857)
 
 [Material Custom AlertDialog + PickerView](https://www.notion.so/Material-Custom-AlertDialog-PickerView-301f5aa45793478a8005072d4874457d)
 
@@ -332,7 +361,19 @@
 
 [Local Full Backup by making zip file on git - article](https://medium.com/@spians/exploring-how-to-provide-your-own-backup-restore-mechanism-in-your-android-app-99e5885ff7ed)
 
+# TextView
+
+[Spannable String with `append`](https://www.notion.so/Spannable-String-with-append-cb9fc9a2c24a4d259fd9cf74e4f9f2ef)
+
+[Spannable String highlight some text](https://www.notion.so/Spannable-String-highlight-some-text-7143637fe64847f590a34a22c1ffa71e)
+
 # Functionality
+
+[android clipboard ](https://www.notion.so/android-clipboard-98f42bbeeb5a46859b226c30661e6721)
+
+[Jsoup webcrawling](https://www.notion.so/Jsoup-webcrawling-dbb2da4d9a7341a78b42211caf5c17b1)
+
+[clipboard pastedValue](https://www.notion.so/clipboard-pastedValue-bcad46b0ef5c4eb6b2256ff3ddee143c)
 
 [Search Functionality on AppBar or Toolbar](https://www.notion.so/Search-Functionality-on-AppBar-or-ToolbAR-b8df6c1224364a23b777d756bc33d292)
 
@@ -472,6 +513,16 @@
 
 # Library
 
+[Jsoup webcrawling](https://www.notion.so/Jsoup-webcrawling-dbb2da4d9a7341a78b42211caf5c17b1)
+
+[Infinite CircleView with Indicator](https://www.notion.so/Infinite-CircleView-with-Indicator-88556600e60e4c62bca3e050e0d3155c)
+
+[Drag to Dismiss Activity](https://github.com/klinker24/Android-DragDismissActivity)
+
+[Dots Indicator](https://github.com/tommybuonomo/dotsindicator) 
+
+[Looping ViewPager](https://github.com/siralam/LoopingViewPager)
+
 [InfiniteCycleView, ViewPager1 Library](https://www.notion.so/InfiniteCycleView-ViewPager1-Library-a941728ee6594196a661e8e57ec3a3a1)
 
 [android animation library on git](https://github.com/paigeshin/AOS_Kotlin_Animation_Library_YOYO)
@@ -537,6 +588,12 @@
 
 # Dialog
 
+[simple inputText + share dialog ](https://www.notion.so/simple-inputText-share-dialog-40c46570270b4b14a7615c725ba0291f)#
+
+[email dialog v2](https://www.notion.so/email-dialog-v2-53f349975deb47748d10e0434091c857)
+
+[Material Alert Dialog Change Textcolor](https://www.notion.so/Material-Alert-Dialog-Change-Textcolor-b215b58d65b8472a8c6686c3b3cef86f)
+
 [Kotlin EditTextAlertDialog + UI Coding Programmatically](https://www.notion.so/Kotlin-EditTextAlertDialog-UI-Coding-Programmatically-8bf225e555764045817971f31cf3bcf8)
 
 [android native ad dialog](https://www.notion.so/android-native-ad-dialog-2ebb1ab765d5477a852cb6ede310f132)
@@ -577,7 +634,21 @@
 
 [RecyclerView, delete item ](https://www.notion.so/RecyclerView-delete-item-ea9719e506ab4dbf8a2a930b472ea5c1)
 
+# EditText
+
+[SetOnEditorActionListener, android keyboard enterkey handling ](https://www.notion.so/SetOnEditorActionListener-android-keyboard-enterkey-handling-5c3a6235650e4070bd7a820204fd3213)
+
 # Design
+
+[SetOnEditorActionListener, android keyboard enterkey handling ](https://www.notion.so/SetOnEditorActionListener-android-keyboard-enterkey-handling-5c3a6235650e4070bd7a820204fd3213)
+
+[imageview 등에 click motion 주기](https://www.notion.so/imageview-click-motion-32e0bef1b07a4d6a8f8cbb17f5509563)
+
+[AutoComplete TextView](https://www.notion.so/AutoComplete-TextView-9e63af08d5114ab7b4c59d3311db649d)
+
+[Material Alert Dialog Change Textcolor](https://www.notion.so/Material-Alert-Dialog-Change-Textcolor-b215b58d65b8472a8c6686c3b3cef86f)
+
+[BottomNavigationView Customization](https://www.notion.so/BottomNavigationView-Customization-20caff2281794d86af09aa063f455eca)
 
 [Kotlin - handle global font size & font](https://www.notion.so/Kotlin-handle-global-font-size-font-412b7bb57083425e824ec38253ddf0f1)
 
@@ -633,6 +704,10 @@
 [cardview corner radius](https://www.notion.so/cardview-9b4da8e5350145208f03e54e89b503cf)
 
 # UI Component
+
+[Infinite CircleView with Indicator](https://www.notion.so/Infinite-CircleView-with-Indicator-88556600e60e4c62bca3e050e0d3155c)
+
+[AutoComplete TextView](https://www.notion.so/AutoComplete-TextView-9e63af08d5114ab7b4c59d3311db649d)
 
 [Custom Progress Bar](https://www.notion.so/Custom-Progress-Bar-0189054f8afd42228406df86de7c6ec6)
 
@@ -873,6 +948,8 @@
 [let, run, with, also, apply](https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply)
 
 # Article
+
+[Android Theming - Design System](https://proandroiddev.com/android-design-system-and-theming-colors-5a95f0464480)
 
 [5 beautiful android animation libraries](https://levelup.gitconnected.com/5-beautiful-android-animation-libraries-2020-470e01875e66)
 
