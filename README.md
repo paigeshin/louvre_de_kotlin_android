@@ -82,6 +82,17 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Realm on notion](https://www.notion.so/Realm-Android-b7c316f2a7a14422b5c856cd8af4782c)
 
+# Retrofit2
+
+[Singleton Retrofit2 with token attached](https://www.notion.so/Singleton-Retrofit2-with-token-attached-99bc4e6331fd4dabb03732882cbeff31)
+
+[Retrofit2 XML](https://www.notion.so/Retrofit2-XML-4aafca02c55744eca12704bca16339a6)
+
+# XML Parser
+
+[XML Parser with HTTP response](https://www.notion.so/XML-Parser-with-HTTP-response-79797b81492d4a899138ec91a9ef7b2d)
+
+[Retrofit2 XML](https://www.notion.so/Retrofit2-XML-4aafca02c55744eca12704bca16339a6)
 
 # My Animation Library
 
@@ -639,6 +650,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 [SetOnEditorActionListener, android keyboard enterkey handling ](https://www.notion.so/SetOnEditorActionListener-android-keyboard-enterkey-handling-5c3a6235650e4070bd7a820204fd3213)
 
 # Design
+
+[Image Overlay Background](https://www.notion.so/Image-Overlay-Background-6c243f76b72246f8af0d4af574e06a89)
+
+[ImageView Selectable Background with custom drawable](https://www.notion.so/ImageView-Selectable-Background-with-custom-drawable-0c11c482338145a3a1b6e0dc6ad85b16)
 
 [SetOnEditorActionListener, android keyboard enterkey handling ](https://www.notion.so/SetOnEditorActionListener-android-keyboard-enterkey-handling-5c3a6235650e4070bd7a820204fd3213)
 
