@@ -237,6 +237,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Essential View
 
+[BottomSheetFramgent](https://www.notion.so/BottomSheetFramgent-4035649a033d4b5a952659fdb91db432)
+
 [AutoComplete TextView](https://www.notion.so/AutoComplete-TextView-9e63af08d5114ab7b4c59d3311db649d)
 
 [Infinite CircleView with Indicator](https://www.notion.so/Infinite-CircleView-with-Indicator-88556600e60e4c62bca3e050e0d3155c)
@@ -378,7 +380,15 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Spannable String highlight some text](https://www.notion.so/Spannable-String-highlight-some-text-7143637fe64847f590a34a22c1ffa71e)
 
+# Widget
+
+[android widget](https://www.notion.so/android-widget-3b00183f0aea485d8f3d052dd58676c1)
+
 # Functionality
+
+[android widget](https://www.notion.so/android-widget-3b00183f0aea485d8f3d052dd58676c1)
+
+[Album & Grid, RecyclerView, create grid view with layout params](https://www.notion.so/RecyclerView-create-grid-view-with-layout-params-2e174f8669b4493ba2d28fa067a0da0c)
 
 [android clipboard ](https://www.notion.so/android-clipboard-98f42bbeeb5a46859b226c30661e6721)
 
@@ -436,6 +446,14 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Push Notification
 
+[Notification Basic](https://www.notion.so/Notification-Basic-2c0e54ef488f434da93083e0742f9f3e)
+
+[Collapsing Notification](https://www.notion.so/Collapsing-Notification-37bd6a4dac0d4e56b530a683d121b2f6)
+
+[Android Scheduled Local Notification with big picture on git](https://github.com/paigeshin/AOS_KOTLIN_scheduled_notification_with_big_picture)
+
+[Android Scheduled Local Notification with big picture on git on notion](https://www.notion.so/Expanding-Notification-with-Periodic-Action-9d8438d1d219491f87b676f07a23affe)
+
 [Android Local notification with specific action on notion](https://www.notion.so/Android-Local-notification-with-specific-action-0745e9b2efef4ab49b4f2e783121823d)
 
 [Android Local Notification Basic on notion](https://www.notion.so/Android-Local-Notification-Basic-6032a1ba7be64a1c8ae63294fe7ca1c7)
@@ -449,6 +467,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Push Notification](https://www.notion.so/Push-Notification-632dcd2dff0546ebb8edb0121cebda1d)
 
 # Material Components 
+
+[BottomSheetFramgent](https://www.notion.so/BottomSheetFramgent-4035649a033d4b5a952659fdb91db432)
 
 [Material Components on github](https://github.com/paigeshin/AOS_Kotlin_MaterialComponents)
 
@@ -576,6 +596,7 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Change local language](https://www.notion.so/Change-local-language-9822ac6dcd8c4f8d90b5e9cc692a7ff8)
 
+[Langauge By Locale](https://www.notion.so/Langauge-By-Locale-d35888526a2d4a8897b2b5c3c25c21b7)
 
 # Layout Programmatically
 
@@ -599,6 +620,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Dialog
 
+[BottomSheetFramgent](https://www.notion.so/BottomSheetFramgent-4035649a033d4b5a952659fdb91db432)
+
 [simple inputText + share dialog ](https://www.notion.so/simple-inputText-share-dialog-40c46570270b4b14a7615c725ba0291f)#
 
 [email dialog v2](https://www.notion.so/email-dialog-v2-53f349975deb47748d10e0434091c857)
@@ -618,6 +641,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Custom Dialog, Rounded Dialog, Width Control, dismiss keyboard, data binding, Soft Input ](https://www.notion.so/Custom-Dialog-Rounded-Dialog-Width-Control-dismiss-keyboard-data-binding-Soft-Input-35024108e1834e63b8467dd73cc15cdd)
 
 # RecyclerView
+
+[RecyclerView, create grid view with layout params](https://www.notion.so/RecyclerView-create-grid-view-with-layout-params-2e174f8669b4493ba2d28fa067a0da0c)
 
 [RecyclerView with ViewBinding most efficient way ](https://www.notion.so/RecyclerView-with-ViewBinding-most-efficient-way-b0ef882d07d34328918832cb650e0b09)
 
@@ -650,6 +675,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 [SetOnEditorActionListener, android keyboard enterkey handling ](https://www.notion.so/SetOnEditorActionListener-android-keyboard-enterkey-handling-5c3a6235650e4070bd7a820204fd3213)
 
 # Design
+
+[RecyclerView, create grid view with layout params](https://www.notion.so/RecyclerView-create-grid-view-with-layout-params-2e174f8669b4493ba2d28fa067a0da0c)
 
 [Image Overlay Background](https://www.notion.so/Image-Overlay-Background-6c243f76b72246f8af0d4af574e06a89)
 
@@ -825,6 +852,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 [SQLite CRUD example](https://www.notion.so/SQLite-CRUD-example-18cf13fc57d54ee69b4fc5b63cb296e8)
 
 # Debugging
+
+[android background color not changing... ](https://www.notion.so/android-background-color-not-changing-e07ead73dbe24d489626db712ec6c324)
 
 [Android keyboard, ui handle](https://www.notion.so/Android-keyboard-ui-handle-8d98a879d3d74abda1b0d244c764a3be)
 
