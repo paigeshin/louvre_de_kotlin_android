@@ -225,6 +225,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # File Handling
 
+[android get rawfile uri](https://www.notion.so/android-get-rawfile-uri-374fb5037dd04788bad062340b33d60c)
+
+[android notification sound](https://www.notion.so/android-notification-sound-717655a15fdd482681a2977d3f7527d5)
+
 [android save image into local, with set OutputFile](https://www.notion.so/android-save-image-into-local-with-set-OutputFile-0a0022f1230c4625ab7300295b0ac490)
 
 [android save video into local with uri](https://www.notion.so/android-save-video-into-local-with-uri-3ab2a207238e4f4abf135ddde81ce282)
@@ -445,6 +449,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Create refresh with onActivityForResult](https://www.notion.so/Create-refresh-with-onActivityForResult-396e0d8431ce4522a9b537f746c36d33)
 
 # Push Notification
+
+[android notification sound](https://www.notion.so/android-notification-sound-717655a15fdd482681a2977d3f7527d5)
 
 [Notification Basic](https://www.notion.so/Notification-Basic-2c0e54ef488f434da93083e0742f9f3e)
 
