@@ -596,6 +596,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # MultiLingual Support
 
+[Multiple Languages App icon localization](https://www.notion.so/Multiple-Languages-App-icon-localization-f280167af57443b78e372d02ade21f51)
+
 [Locale Wrapper, user selected language handling](https://www.notion.so/Locale-Wrapper-user-selected-language-handling-d0ad63826afb4be1a9f884e0d8165d0c)
 
 [get system default locale ](https://www.notion.so/get-system-default-locale-989fc7afa5de4924bcdd666de561c277)
@@ -681,6 +683,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 [SetOnEditorActionListener, android keyboard enterkey handling ](https://www.notion.so/SetOnEditorActionListener-android-keyboard-enterkey-handling-5c3a6235650e4070bd7a820204fd3213)
 
 # Design
+
+[Multiple Languages App icon localization](https://www.notion.so/Multiple-Languages-App-icon-localization-f280167af57443b78e372d02ade21f51)
 
 [RecyclerView, create grid view with layout params](https://www.notion.so/RecyclerView-create-grid-view-with-layout-params-2e174f8669b4493ba2d28fa067a0da0c)
 
