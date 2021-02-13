@@ -112,6 +112,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # LifeCycle
 
+[이전 activity화면 다 제거하기](https://www.notion.so/activity-41c2db38bcf844f6af5f86d17882c42c)
+
 [앱 재시작 ](https://www.notion.so/ba2577c51a5b46568a37464e822bc317)
 
 # Google Provided Library
@@ -149,6 +151,14 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Paging Library v3, on git](https://github.com/paigeshin/AOS_kotlin_paging_library_v3)
 
 [Android Paging Library v3 on notion](https://www.notion.so/Android-Paging-Library-v3-690fcf33157741cd971c006222507844)
+
+# Bottom Navigation View
+
+[android bottom navigation view border](https://www.notion.so/android-bottom-navigation-view-border-4a2a9e923f9746659c39000845c81e0b)
+
+[bottom navigation view delete shadow or border](https://www.notion.so/bottom-navigation-view-delete-shadow-or-border-37e7c2dd3e284abf8f8f13e47b0cdebe)
+
+[bottom navigation delete ripple & or just change background](https://www.notion.so/bottom-navigation-delete-ripple-or-just-change-background-3b0b3cbb90b14f419b24df89d375ae25)
 
 # BoilerPlate
 
@@ -682,7 +692,11 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [SetOnEditorActionListener, android keyboard enterkey handling ](https://www.notion.so/SetOnEditorActionListener-android-keyboard-enterkey-handling-5c3a6235650e4070bd7a820204fd3213)
 
-# Design
+[android bottom navigation view border](https://www.notion.so/android-bottom-navigation-view-border-4a2a9e923f9746659c39000845c81e0b)
+
+[bottom navigation view delete shadow or border](https://www.notion.so/bottom-navigation-view-delete-shadow-or-border-37e7c2dd3e284abf8f8f13e47b0cdebe)
+
+[bottom navigation delete ripple & or just change background](https://www.notion.so/bottom-navigation-delete-ripple-or-just-change-background-3b0b3cbb90b14f419b24df89d375ae25)
 
 [Multiple Languages App icon localization](https://www.notion.so/Multiple-Languages-App-icon-localization-f280167af57443b78e372d02ade21f51)
 
