@@ -170,6 +170,71 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Custom Dialog Color Picker PopUp](https://www.notion.so/Custom-Dialog-Color-Picker-PopUp-69a1a3785b4c400f883cca5a0a5394ec)
 
+# Design
+
+[RecyclerView, create grid view with layout params](https://www.notion.so/RecyclerView-create-grid-view-with-layout-params-2e174f8669b4493ba2d28fa067a0da0c)
+
+[Image Overlay Background](https://www.notion.so/Image-Overlay-Background-6c243f76b72246f8af0d4af574e06a89)
+
+[ImageView Selectable Background with custom drawable](https://www.notion.so/ImageView-Selectable-Background-with-custom-drawable-0c11c482338145a3a1b6e0dc6ad85b16)
+
+[SetOnEditorActionListener, android keyboard enterkey handling ](https://www.notion.so/SetOnEditorActionListener-android-keyboard-enterkey-handling-5c3a6235650e4070bd7a820204fd3213)
+
+[imageview 등에 click motion 주기](https://www.notion.so/imageview-click-motion-32e0bef1b07a4d6a8f8cbb17f5509563)
+
+[AutoComplete TextView](https://www.notion.so/AutoComplete-TextView-9e63af08d5114ab7b4c59d3311db649d)
+
+[Material Alert Dialog Change Textcolor](https://www.notion.so/Material-Alert-Dialog-Change-Textcolor-b215b58d65b8472a8c6686c3b3cef86f)
+
+[BottomNavigationView Customization](https://www.notion.so/BottomNavigationView-Customization-20caff2281794d86af09aa063f455eca)
+
+[Kotlin - handle global font size & font](https://www.notion.so/Kotlin-handle-global-font-size-font-412b7bb57083425e824ec38253ddf0f1)
+
+[android, windowSoftInputMode](https://www.notion.so/android-windowSoftInputMode-3679cdb37b73435997b553715819523d)
+
+[Overlay with ImageView](https://www.notion.so/Overlay-with-ImageView-c8ff617dcff245a0896f92b3af3158b3)
+
+[Get Screen Size and convert it to Integer](https://www.notion.so/Get-Screen-Size-and-convert-it-to-Integer-574d81b91ae346c9910a8ba7cafe9143)
+
+[Apply Custom Font](https://www.notion.so/Apply-Custom-Font-240ad8fe80e04521b24cba1750060de4)
+
+[Define Custom Theme](https://www.notion.so/Define-Custom-Theme-421b6c6b38e24bc6b620c30cdd003998)
+
+[Make window full screen](https://www.notion.so/Make-window-full-screen-a195a2b84d4b4e95b4155226ff004232)
+
+[editText Set selection focus](https://www.notion.so/editText-Set-selection-focus-6f3362de2d684ace93548b909cfb0325)
+
+[Handle ActionBar](https://www.notion.so/Handle-ActionBar-a5a8680061db4eae8d4adc94cfcfc453)
+
+[Customize Toolbar](https://www.notion.so/Customize-Toolbar-981584f972c543788c06efa21b173138)
+
+[Android Dark Mode](https://www.notion.so/Android-Dark-Mode-9928b32a6cf54a3491e2a23325a41c64)
+
+[Android get font from layout](https://www.notion.so/Android-get-font-from-layout-8bad3d6344954ca6b51cd80b6734cecc)
+
+[Android Color Explained](https://www.notion.so/Android-Color-Explained-594ae0230b064be0acc00f2497d48e76)
+
+[Android Themes, Check other themes ](https://www.notion.so/Android-Themes-Check-other-themes-26927c6c0fc647f7ac4c5a81ee8bcce5)
+
+[Android Dynamic Theming](https://www.notion.so/Android-Dynamic-Theming-59b6399367fc46e9a713f5d7f7d7cee4)
+
+[Coordinator Layout](https://www.notion.so/Coordinator-Layout-deff4527c2a84bc2a111d777765c40b7)
+
+[Android Change Entire font size](https://www.notion.so/Android-Change-Entire-font-size-c874ee63d99c4ec59017cfb8d2cae886)
+
+[Android Coordinator Layout](https://www.notion.so/Android-Coordinator-Layout-3ac957b3626b4072810db5db97514c7a)
+
+[Android Coordinator Layout Template with viewpager](https://www.notion.so/Android-Coordinator-Layout-Template-with-viewpager-1e2d7a9e435c4537b30086a826710baf)
+
+[Simple ItemView XML Asset for Text Post ](https://www.notion.so/Simple-ItemView-XML-Asset-for-Text-Post-5908120bb9e24d74a2c31fa74f700ca0)
+
+[Android TransitionManager](https://www.notion.so/Android-TransitionManager-46d794f6a85d4a0b98f286dce9fa3ac7)
+
+[SharedElementTransition](https://www.notion.so/SharedElementTransition-d13f773ba474456197fd7b4a1809b371)
+
+[Search Functionality on AppBar or Toolbar](https://www.notion.so/Search-Functionality-on-AppBar-or-ToolbAR-b8df6c1224364a23b777d756bc33d292)
+
+
 # Extension
 
 [extensions, Change TabLayout & BottomNavigationView font and fontsize](https://www.notion.so/extensions-Change-TabLayout-BottomNavigationView-font-and-fontsize-3049d97f18cf4834a2019e41ea4a7f4d)
