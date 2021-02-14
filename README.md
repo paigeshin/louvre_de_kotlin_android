@@ -172,6 +172,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Design
 
+[Button Ripple Effect for all views](https://www.notion.so/Button-Ripple-Effect-for-all-views-a8918e47d4634b43ac7fcd9537c10d53)
+
 [RecyclerView, create grid view with layout params](https://www.notion.so/RecyclerView-create-grid-view-with-layout-params-2e174f8669b4493ba2d28fa067a0da0c)
 
 [Image Overlay Background](https://www.notion.so/Image-Overlay-Background-6c243f76b72246f8af0d4af574e06a89)
@@ -396,6 +398,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Parcelable model for objects](https://www.notion.so/Parcelable-model-for-objects-92954e400da3447eb29e5b788a3fabfa)
 
 [Parcelable with ArrayList](https://www.notion.so/Parcelable-with-ArrayList-850acd7dec324feeae3c41d8d97fccb3)
+
+[Local JSON Data handling on git](https://github.com/paigeshin/AOS_LOCAL_JSON_PARSING_gson_or_without_gson)
+
+[Local JSON Parsing, json vs gson](https://www.notion.so/Local-JSON-Parsing-json-vs-gson-05a21af6fe3a4b5b8b14312a3ad505e4)
 
 # Business
 
