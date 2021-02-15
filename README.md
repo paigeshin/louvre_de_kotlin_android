@@ -729,6 +729,12 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Custom Dialog, Rounded Dialog, Width Control, dismiss keyboard, data binding, Soft Input ](https://www.notion.so/Custom-Dialog-Rounded-Dialog-Width-Control-dismiss-keyboard-data-binding-Soft-Input-35024108e1834e63b8467dd73cc15cdd)
 
+# Room
+
+[bulk json with room](https://www.notion.so/bulk-json-with-room-48824685314945ca9936982f2213a30f)
+
+[room,  boolean 값 표기, 0 & 1](https://www.notion.so/room-boolean-0-1-a1bb626b1cd341a3952b772440d456ed)
+
 # RecyclerView
 
 [RecyclerView, create grid view with layout params](https://www.notion.so/RecyclerView-create-grid-view-with-layout-params-2e174f8669b4493ba2d28fa067a0da0c)
