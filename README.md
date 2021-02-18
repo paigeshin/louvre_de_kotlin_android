@@ -37,6 +37,13 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [dissmiss keyboard when touching outside](https://www.notion.so/dissmiss-keyboard-when-touching-outside-0700e20c6e2645c2adaa32b73aaddc24)
 
+[Window FullScreen](https://www.notion.so/Window-FullScreen-f1c86398ca2a4e628cb3e094a64fe2f8)
+
+[Minimize app Size - images → webp](https://www.notion.so/Minimize-app-Size-images-webp-6485ac862688488abbdf93afb878c152)
+
+# Release
+
+[Minimize app Size - images → webp](https://www.notion.so/Minimize-app-Size-images-webp-6485ac862688488abbdf93afb878c152)
 
 # XML Layout Asset
 
@@ -171,6 +178,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Custom Dialog Color Picker PopUp](https://www.notion.so/Custom-Dialog-Color-Picker-PopUp-69a1a3785b4c400f883cca5a0a5394ec)
 
 # Design
+
+[Window FullScreen](https://www.notion.so/Window-FullScreen-f1c86398ca2a4e628cb3e094a64fe2f8)
+
+[Change menu text color](https://www.notion.so/Change-menu-text-color-4a3ec89659864b32a1c585bf81155f4b)
 
 [Button Ripple Effect for all views](https://www.notion.so/Button-Ripple-Effect-for-all-views-a8918e47d4634b43ac7fcd9537c10d53)
 
@@ -730,6 +741,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Custom Dialog, Rounded Dialog, Width Control, dismiss keyboard, data binding, Soft Input ](https://www.notion.so/Custom-Dialog-Rounded-Dialog-Width-Control-dismiss-keyboard-data-binding-Soft-Input-35024108e1834e63b8467dd73cc15cdd)
 
 # Room
+
+[Android Room Transaction](https://www.notion.so/Android-Room-Transaction-efdd4f590c6e405b8585b5fbea1a1b9a)
+
+[Android room update multiple rows](https://www.notion.so/Android-room-update-multiple-rows-5d67538f3edf444fae53b969cbf7fede)
 
 [bulk json with room](https://www.notion.so/bulk-json-with-room-48824685314945ca9936982f2213a30f)
 
