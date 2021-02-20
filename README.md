@@ -264,6 +264,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Animation
 
+[Android Background Color Transition Animation](https://www.notion.so/Android-Background-Color-Transition-Animation-01df293994a94890ad8695bb3f427926)
+
 [Kotlin Extension - TextView Animation](https://www.notion.so/Kotlin-Extension-TextView-Animation-772a62cad2074165a9ff1d88f36c5ba0)
 
 [YoYo animation Library](https://www.notion.so/android-animation-library-0548dcf252934e81ab8967b29cbe9231)
