@@ -179,6 +179,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Design
 
+[Android change icon menu color](https://www.notion.so/Android-change-icon-menu-color-144486c2ddc04c439eedbbb2b4c63df9)
+
 [Window FullScreen](https://www.notion.so/Window-FullScreen-f1c86398ca2a4e628cb3e094a64fe2f8)
 
 [Change menu text color](https://www.notion.so/Change-menu-text-color-4a3ec89659864b32a1c585bf81155f4b)
@@ -743,6 +745,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Custom Dialog, Rounded Dialog, Width Control, dismiss keyboard, data binding, Soft Input ](https://www.notion.so/Custom-Dialog-Rounded-Dialog-Width-Control-dismiss-keyboard-data-binding-Soft-Input-35024108e1834e63b8467dd73cc15cdd)
 
 # Room
+
+[Get random rows, query](https://www.notion.so/Get-random-rows-query-1b9983c9ff4c4bf5a03cda16aa0f90a6)
+
+[Android Room Migration](https://www.notion.so/Android-Room-Migration-b48bb930069542d099ac7308a0cb6a50)
 
 [Android Room Transaction](https://www.notion.so/Android-Room-Transaction-efdd4f590c6e405b8585b5fbea1a1b9a)
 
