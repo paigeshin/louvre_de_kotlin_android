@@ -71,6 +71,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # ViewPager1 & ViewPager2 
 
+[ViewPager1 Basic](https://www.notion.so/ViewPager-Basic-3beb2f9df522449cb5c707100eaa8045)
+
+[Viewpager1 background changing, YOU CAN USE THIS LOGIC ON viewPager2](https://www.notion.so/Viewpager1-background-changing-dabe0fc8238c4175a4be84551b276523)
+
 [Infinite CircleView with Indicator](https://www.notion.so/Infinite-CircleView-with-Indicator-88556600e60e4c62bca3e050e0d3155c)
 
 [Basic ViewPager1](https://www.notion.so/Basic-ViewPager-e9f5bffc757742cba45d434fcf099b61)
@@ -745,6 +749,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Custom Dialog, Rounded Dialog, Width Control, dismiss keyboard, data binding, Soft Input ](https://www.notion.so/Custom-Dialog-Rounded-Dialog-Width-Control-dismiss-keyboard-data-binding-Soft-Input-35024108e1834e63b8467dd73cc15cdd)
 
 # Room
+
+[TypeConverter](https://www.notion.so/TypeConverter-77457adb89074f17894401b3b561e0c8)
 
 [Get random rows, query](https://www.notion.so/Get-random-rows-query-1b9983c9ff4c4bf5a03cda16aa0f90a6)
 
