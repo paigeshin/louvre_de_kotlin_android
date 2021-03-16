@@ -71,11 +71,15 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # ViewPager1 & ViewPager2 
 
+[ViewPager1 Kotlin ViewPager Custom Scroll Speed](https://www.notion.so/Kotlin-ViewPager-Custom-Scroll-Speed-6681b54e1a1f41adb2be7c3f45d7f426)
+
+[ViewPager1 Disable User Swipe Pagination](https://www.notion.so/Disable-User-Swipe-Pagination-c4485ef2dc2945958b7d3ed20dfc50b4)
+
 [ViewPager1 Basic](https://www.notion.so/ViewPager-Basic-3beb2f9df522449cb5c707100eaa8045)
 
 [Viewpager1 background changing, YOU CAN USE THIS LOGIC ON viewPager2](https://www.notion.so/Viewpager1-background-changing-dabe0fc8238c4175a4be84551b276523)
 
-[Infinite CircleView with Indicator](https://www.notion.so/Infinite-CircleView-with-Indicator-88556600e60e4c62bca3e050e0d3155c)
+[Infinite CircleView with Indicator, with ViewPager1 & ViewPager2](https://www.notion.so/Infinite-CircleView-with-Indicator-88556600e60e4c62bca3e050e0d3155c)
 
 [Basic ViewPager1](https://www.notion.so/Basic-ViewPager-e9f5bffc757742cba45d434fcf099b61)
 
@@ -347,6 +351,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Component
 
+[ViewPager1 Kotlin ViewPager Custom Scroll Speed](https://www.notion.so/Kotlin-ViewPager-Custom-Scroll-Speed-6681b54e1a1f41adb2be7c3f45d7f426)
+
+[ViewPager1 Disable User Swipe Pagination](https://www.notion.so/Disable-User-Swipe-Pagination-c4485ef2dc2945958b7d3ed20dfc50b4)
+
 [simple inputText + share dialog ](https://www.notion.so/simple-inputText-share-dialog-40c46570270b4b14a7615c725ba0291f)
 
 [email dialog v2](https://www.notion.so/email-dialog-v2-53f349975deb47748d10e0434091c857)
@@ -548,7 +556,9 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Create refresh with onActivityForResult](https://www.notion.so/Create-refresh-with-onActivityForResult-396e0d8431ce4522a9b537f746c36d33)
 
-# Push Notification
+# Notification
+
+[Android Scheduled Notification Practical Example](https://www.notion.so/Android-Scheduled-Notification-439e888418a549c7834b584eacfce251)
 
 [android notification sound](https://www.notion.so/android-notification-sound-717655a15fdd482681a2977d3f7527d5)
 
@@ -569,6 +579,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Android Local Notification without specific action on git](https://github.com/paigeshin/AOS_kotlin_localNotification_without_action)
 
 [Android Push Notification Using Firebase and Advanced REST Client](https://www.notion.so/Android-Push-Notification-Using-Firebase-and-Advanced-REST-Client-caf0bd1fd72546928c559cc4d3c75a6d)
+
+# Push Notification 
 
 [Push Notification](https://www.notion.so/Push-Notification-632dcd2dff0546ebb8edb0121cebda1d)
 
@@ -748,7 +760,13 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Custom Dialog, Rounded Dialog, Width Control, dismiss keyboard, data binding, Soft Input ](https://www.notion.so/Custom-Dialog-Rounded-Dialog-Width-Control-dismiss-keyboard-data-binding-Soft-Input-35024108e1834e63b8467dd73cc15cdd)
 
+# Realm
+
+[Android Realm Data Definition Example ](https://www.notion.so/Android-Realm-Data-Definition-Example-53f0756f682e48288c973777532b30ef)
+
 # Room
+
+[Foreign Key](https://www.notion.so/Foreign-Key-059bcf4d8e1643d49b2cf4a9874a52ae)
 
 [TypeConverter](https://www.notion.so/TypeConverter-77457adb89074f17894401b3b561e0c8)
 
