@@ -71,6 +71,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # ViewPager1 & ViewPager2 
 
+[ViewPager using ViewHolder like RecyclerView : Following code is use for create ViewHolder of ViewPager with Multiple ViewType · GitHub](https://www.notion.so/ViewPager-using-ViewHolder-like-RecyclerView-Following-code-is-use-for-create-ViewHolder-of-ViewPa-6430255511df401a9183bc9a9b45fd0c)
+
 [ViewPager1 Kotlin ViewPager Custom Scroll Speed](https://www.notion.so/Kotlin-ViewPager-Custom-Scroll-Speed-6681b54e1a1f41adb2be7c3f45d7f426)
 
 [ViewPager1 Disable User Swipe Pagination](https://www.notion.so/Disable-User-Swipe-Pagination-c4485ef2dc2945958b7d3ed20dfc50b4)
@@ -420,6 +422,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Data Handling
 
+[gson](https://www.notion.so/gson-9ba005fc3d6f49338fb090b03466b24a)
+
 [Parcelable model with intent](https://www.notion.so/Parcelable-model-with-intent-bcc79ad29de14c7988adc88c17f5a34b)
 
 [Parcelable model for objects](https://www.notion.so/Parcelable-model-for-objects-92954e400da3447eb29e5b788a3fabfa)
@@ -497,6 +501,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 [android widget](https://www.notion.so/android-widget-3b00183f0aea485d8f3d052dd58676c1)
 
 # Functionality
+
+[SearchView](https://www.notion.so/SearchView-7b7114a1ae7447828d6f55b07e4fcf57)
 
 [android widget](https://www.notion.so/android-widget-3b00183f0aea485d8f3d052dd58676c1)
 
