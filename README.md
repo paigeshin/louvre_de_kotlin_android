@@ -436,6 +436,12 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Business
 
+[AppOdeal Ad examples](https://www.notion.so/AppOdeal-Ad-examples-307fc72fc5b94b5fa052b5b0fad1b168)
+
+[Subscription & inapp](https://www.notion.so/Subscription-inapp-5fdf6f10e9ef46f5a621dd2e0f63e837)
+
+[InApp & Subscription](https://github.com/paigeshin/KOTLIN_Ultimate_InApp_Subscription)
+
 [InApp Purchase on Git](https://github.com/paigeshin/AOS_KOTLIN_IN_APP_PURCHASE)
 
 [InApp Purchase on Notion](https://www.notion.so/In-App-Purchase-493c02d3abbe47449bb13e2868f68354)
