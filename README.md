@@ -41,6 +41,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Minimize app Size - images → webp](https://www.notion.so/Minimize-app-Size-images-webp-6485ac862688488abbdf93afb878c152)
 
+# View
+
+[Android Time picker View](https://www.notion.so/Android-Time-picker-View-656928f418c74a20b2b2679395eedf0f)
+
 # Release
 
 [Minimize app Size - images → webp](https://www.notion.so/Minimize-app-Size-images-webp-6485ac862688488abbdf93afb878c152)
@@ -569,6 +573,12 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Create refresh with onActivityForResult](https://www.notion.so/Create-refresh-with-onActivityForResult-396e0d8431ce4522a9b537f746c36d33)
 
 # Notification
+
+[Android Weekly Notification](https://www.notion.so/Android-Weekly-Notification-3c57076600944923a532e61090e656e2)
+
+[Android Notification After Reboot](https://www.notion.so/Android-Notification-After-Reboot-fd59938a61314cebb7f6179d82f580c3)
+
+[Android Notification Tips, about notification id. ⇒ If notification has the same id, it will override..](https://www.notion.so/Android-Notification-Tips-about-notification-id-If-notification-has-the-same-id-it-will-overrid-a75d360308c948569934fb7cefd012b5)
 
 [Android Scheduled Notification Practical Example](https://www.notion.so/Android-Scheduled-Notification-439e888418a549c7834b584eacfce251)
 
