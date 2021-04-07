@@ -41,13 +41,29 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Minimize app Size - images → webp](https://www.notion.so/Minimize-app-Size-images-webp-6485ac862688488abbdf93afb878c152)
 
+[Android Flavor](https://www.notion.so/Android-Flavor-6f97d2406f9740349442e13d7ea09c0a)
+
+[Android DPI list for screen optimization ](https://www.notion.so/Android-DPI-list-for-screen-optimization-f5ca42e9632e4a8cb30ccf22e8b1fb02)
+
+
 # View
 
 [Android Time picker View](https://www.notion.so/Android-Time-picker-View-656928f418c74a20b2b2679395eedf0f)
 
 # Release
 
+[Android Flavor](https://www.notion.so/Android-Flavor-6f97d2406f9740349442e13d7ea09c0a)
+
 [Minimize app Size - images → webp](https://www.notion.so/Minimize-app-Size-images-webp-6485ac862688488abbdf93afb878c152)
+
+# Screen Optimization
+
+[Android DPI list for screen optimization ](https://www.notion.so/Android-DPI-list-for-screen-optimization-f5ca42e9632e4a8cb30ccf22e8b1fb02)
+
+
+# String Handling
+
+[Currency Handling](https://www.notion.so/Currency-Handling-0d0797c796a74a8c92ee0f728a3de441)
 
 # XML Layout Asset
 
@@ -74,6 +90,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 
 # ViewPager1 & ViewPager2 
+
+[https://github.com/paigeshin/AOS_Kotlin_viewpager_argcolor_applied](https://github.com/paigeshin/AOS_Kotlin_viewpager_argcolor_applied)
 
 [ViewPager using ViewHolder like RecyclerView : Following code is use for create ViewHolder of ViewPager with Multiple ViewType · GitHub](https://www.notion.so/ViewPager-using-ViewHolder-like-RecyclerView-Following-code-is-use-for-create-ViewHolder-of-ViewPa-6430255511df401a9183bc9a9b45fd0c)
 
@@ -439,6 +457,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Local JSON Parsing, json vs gson](https://www.notion.so/Local-JSON-Parsing-json-vs-gson-05a21af6fe3a4b5b8b14312a3ad505e4)
 
 # Business
+
+[Android Advanced Native Ad Handling ](https://www.notion.so/Android-Advanced-Native-Ad-Handling-c1336f4a428e4a6da8cca5dbacd094a6)
 
 [AppOdeal Ad examples](https://www.notion.so/AppOdeal-Ad-examples-307fc72fc5b94b5fa052b5b0fad1b168)
 
