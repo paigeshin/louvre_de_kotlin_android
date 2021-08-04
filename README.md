@@ -145,6 +145,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [android swapview with constraints with two layouts on notion on git](https://github.com/paigeshin/Kotlin_AOS_animation_swapview_with_two_layouts)
 
+# Dependency Injection
+
+[Pure Dependency Injection](https://github.com/paigeshin/PureDependencyInjection)
+
 # Tips
 
 - 앱이 죽기전에 dialog를 dismiss 해줘야한다
