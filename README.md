@@ -163,6 +163,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Dagger with ViewModel on notion](https://www.notion.so/Dagger-with-ViewModel-b696183f02a542ed9bf722b37db581bd)
 
+[Hilt Tutorial on git](https://github.com/paigeshin/HiltTutorial)
+
+[Hilt Tutorial on notion](https://www.notion.so/Hilt-Tutorial-a3e5ffb95dad4f889f0dfa2d8124f1a8)
+
 # Tips
 
 - 앱이 죽기전에 dialog를 dismiss 해줘야한다
