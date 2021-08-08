@@ -111,6 +111,28 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [InfiniteCycleView, ViewPager1 Library](https://www.notion.so/InfiniteCycleView-ViewPager1-Library-a941728ee6594196a661e8e57ec3a3a1)
 
+# Dagger
+
+[Kotlin Dagger2 Scope](https://medium.com/tompee/dagger-2-scopes-and-subcomponents-d54d58511781)
+
+[https://dagger.dev/dev-guide/](https://dagger.dev/dev-guide/)
+
+[https://dagger.dev/dev-guide/android](https://dagger.dev/dev-guide/android)
+
+[https://dagger.dev/dev-guide/multibindings](https://dagger.dev/dev-guide/multibindings)
+
+[https://dagger.dev/dev-guide/subcomponents](https://dagger.dev/dev-guide/subcomponents)
+
+[https://dagger.dev/dev-guide/producers](https://dagger.dev/dev-guide/producers)
+
+[https://dagger.dev/dev-guide/assisted-injection](https://dagger.dev/dev-guide/assisted-injection)
+
+[https://dagger.dev/dev-guide/testing](https://dagger.dev/dev-guide/testing)
+
+[https://dagger.dev/dev-guide/spi](https://dagger.dev/dev-guide/spi)
+
+[https://dagger.dev/dev-guide/compiler-options](https://dagger.dev/dev-guide/compiler-options)
+
 # Tips
 
 [instead of `recreate` for smooth operation](https://www.notion.so/instead-of-recreate-for-smooth-operation-57454b7d2e9e411ea2e8dc9bdc17ac74)
@@ -1086,6 +1108,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 [List, Sort kotlin](https://www.notion.so/List-Sort-kotlin-b6b6b85af04b4f4c88ece775fd90a6bc)
 
 # Grammar
+
+[Kotlin Dagger2 Scope](https://medium.com/tompee/dagger-2-scopes-and-subcomponents-d54d58511781)
+
+[https://www.baeldung.com/kotlin/lazy-initialization](https://www.baeldung.com/kotlin/lazy-initialization)
 
 [Kotlin Singleton example](https://www.notion.so/Kotlin-Singleton-example-a0021d09b06a47e2aeb8c2b0788431ba)
 
