@@ -151,6 +151,18 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Pure Dependency Injection on notion](https://www.notion.so/Pure-Dependency-Injection-be2be57e0870453f8307ddbba2b24fe9)
 
+[Dependency Injection with Dagger on git](https://github.com/paigeshin/Kotlin_AOS_Dagger)
+
+[Dependency Injection with Dagger on Notion](https://www.notion.so/Dependency-Injection-bc1c0cd4d1384766b4b39e304955622e)
+
+[Advanced Dagger on git](https://github.com/paigeshin/AdvancedDagger)
+
+[Advanced Dagger on notion](https://www.notion.so/Advanced-Dagger-df43a2dcaece4d6c98bd03ee9ddab0a0)
+
+[Dagger with ViewModel on git](https://github.com/paigeshin/DaggerWithViewModel)
+
+[Dagger with ViewModel on notion](https://www.notion.so/Dagger-with-ViewModel-b696183f02a542ed9bf722b37db581bd)
+
 # Tips
 
 - 앱이 죽기전에 dialog를 dismiss 해줘야한다
