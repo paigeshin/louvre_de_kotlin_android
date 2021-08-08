@@ -169,6 +169,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Dependency Injection
 
+[Hilt Official Doc](https://dagger.dev/hilt/)
+
 [Pure Dependency Injection on git](https://github.com/paigeshin/PureDependencyInjection)
 
 [Pure Dependency Injection on notion](https://www.notion.so/Pure-Dependency-Injection-be2be57e0870453f8307ddbba2b24fe9)
