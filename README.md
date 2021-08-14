@@ -78,6 +78,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [kotlin STT on notion](https://www.notion.so/kotlin-STT-89fb47b2dc2448af8292d04cc7826157)
 
+# AAC
+
+[AAC](https://github.com/paigeshin/android_acc_components)
+
 # TTS
 
 [Android TTS](https://www.notion.so/Android-TTS-eee7b6ac764546f0b5167c9bc8c2982a)
