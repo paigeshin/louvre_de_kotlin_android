@@ -89,6 +89,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 [merge tag with constraint layout, landscape mode on git](https://github.com/paigeshin/AOS_reusable_layout_merge_tag)
 
 
+# Clean Architecture
+
+[Clean Architecture # 1](https://github.com/paigeshin)
+
 # ViewPager1 & ViewPager2 
 
 [https://github.com/paigeshin/AOS_Kotlin_viewpager_argcolor_applied](https://github.com/paigeshin/AOS_Kotlin_viewpager_argcolor_applied)
