@@ -80,7 +80,9 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # AAC
 
-[AAC](https://github.com/paigeshin/android_acc_components)
+[AAC Project](https://github.com/paigeshin/android_acc_components)
+
+[AAC More Examples](https://github.com/paigeshin/AAC_COMPONENTS)
 
 # TTS
 
