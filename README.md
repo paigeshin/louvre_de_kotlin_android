@@ -97,6 +97,8 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Clean Architecture
 
+[Clean Archiecture](https://github.com/paigeshin/CleanArchitecture)
+
 [Clean Architecture # 1](https://github.com/paigeshin)
 
 # ViewPager1 & ViewPager2 
