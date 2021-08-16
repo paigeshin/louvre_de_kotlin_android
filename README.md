@@ -97,9 +97,11 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # Clean Architecture
 
-[Clean Archiecture](https://github.com/paigeshin/CleanArchitecture)
+[UltimateCleanArchitecture NEWS ARTICLE](https://github.com/paigeshin/UltimateCleanArchitectureKotlin)
 
-[Clean Architecture # 1](https://github.com/paigeshin)
+[TMDB Clean Archiecture](https://github.com/paigeshin/CleanArchitectureKotlinAndroid)
+
+[Basic Clean Arhictecture](https://github.com/paigeshin/CLEAN_ARCHITECTURE_ANDROID_LOCAL)
 
 # ViewPager1 & ViewPager2 
 
