@@ -71,6 +71,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 # XML Drawable Asset
 
+# Service vs Broadcast Receiver
+
+[Service vs Broadcast receiver](https://www.notion.so/Service-vs-Broadcast-receiver-b550ba356ea848b3ab6d9ed6286a9070)
+
 
 # STT
 
