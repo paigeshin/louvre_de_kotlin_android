@@ -61,6 +61,10 @@ https://github.com/klinker24/Android-DragDismissActivity
 [Android DPI list for screen optimization ](https://www.notion.so/Android-DPI-list-for-screen-optimization-f5ca42e9632e4a8cb30ccf22e8b1fb02)
 
 
+# Android Main Components 
+
+[Service vs Broadcast receiver](https://www.notion.so/Service-vs-Broadcast-receiver-b550ba356ea848b3ab6d9ed6286a9070)
+
 # String Handling
 
 [Currency Handling](https://www.notion.so/Currency-Handling-0d0797c796a74a8c92ee0f728a3de441)
