@@ -1,5 +1,9 @@
 # louvre_de_kotlin_android
 
+# Management Issue
+
+[Lost android key password](https://www.notion.so/Lost-android-key-password-12389f64f2b04b3d908767d83f210302)
+
 # Must Use for every project
 
 [android, windowSoftInputMode](https://www.notion.so/android-windowSoftInputMode-3679cdb37b73435997b553715819523d)
