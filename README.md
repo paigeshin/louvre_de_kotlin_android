@@ -49,6 +49,13 @@ https://github.com/klinker24/Android-DragDismissActivity
 
 [Android DPI list for screen optimization ](https://www.notion.so/Android-DPI-list-for-screen-optimization-f5ca42e9632e4a8cb30ccf22e8b1fb02)
 
+# Security
+
+[https://openid.github.io/AppAuth-Android/](https://openid.github.io/AppAuth-Android/)
+
+[How to store access token](https://www.semicolonworld.com/question/48628/how-to-securely-store-access-token-and-secret-in-android)
+
+[https://stackoverflow.com/questions/43629251/how-to-save-oauth-access-token-securely-in-android](https://stackoverflow.com/questions/43629251/how-to-save-oauth-access-token-securely-in-android)
 
 # View
 
